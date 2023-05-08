@@ -73,7 +73,7 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 <style type='text/css'>
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
 body {
-	background: url(https://asset.kompas.com/crops/gK5AeI1tic3JDobnVyoFhYi57wA=/0x0:1000x667/750x500/data/photo/2020/11/13/5fae76b403ea2.jpg) no-repeat center center fixed; 
+	background: url(https://cdn.bhdw.net/im/itachi-uchiha-akatsuki-night-wallpaper-82296_w635.webp) no-repeat center center fixed; 
     background-size: cover; 
     color: black
 }
