@@ -72,11 +72,7 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 
 <style type='text/css'>
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
-body {
-	background: url(https://image.ibb.co/mwAkWm/wwwd.jpg) no-repeat center center fixed; 
-    background-size: cover; 
-    color: black
-}
+body body { background: url(https://image.ibb.co/mwAkWm/wwwd.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; color: white; cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur862.ani), url(http://cur.cursors-4u.net/cursors/cur-9/cur862.png), progress !important; } .logo { width: 300px; margin: 0 auto; margin-top: 50px; -webkit-filter: drop-shadow(0px 0px 7px #0080FF); filter: drop-shadow(0px 0px 7px red); } .logo:hover{ width: 300px; -webkit-filter: drop-shadow(0px 0px 10px red); opacity:0.4; filter:alpha(opacity=40); transition: opacity .2s ease-out; -moz-transition: opacity .2s ease-out; -webkit-transition: opacity .2s ease-out; -o-transition: opacity .2s ease-out; } 
 html {
     color: #ffffff;
     font-family: 'Share Tech Mono';
